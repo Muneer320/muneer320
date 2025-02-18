@@ -197,3 +197,14 @@
 </div>
 </details>
 <!-- end statics fun section -->
+
+<!-- start programming stats -->
+<details> 
+ <summary>🤖 <b>My programming stats</b> </summary>
+<br>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</details>
