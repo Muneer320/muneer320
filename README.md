@@ -2,7 +2,7 @@
 
 ###
 
-- 🏫 I'm pursuing Bachelors in Computer Science from <a href="https://www.scaler.com/school-of-technology/">@SST  </a>
+- 🏫 I'm pursuing Bachelors in Computer Science
 - 🔭 I’m currently working on  **Backend Development**
 - 😐 I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with Graphical Databases, API Development, Machine Learning <sub><i>and more</i></sub>
@@ -49,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="wordpress logo"  />
   <img width="12" />
   
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
@@ -84,6 +83,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="neovim logo"  />
@@ -119,3 +119,81 @@
 </picture>
 
 ###
+
+<!-- start project section -->
+<details>
+<summary><b> Some of my Projects 👉 </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/Muneer320/BOOP'>BOOP</a></td>
+      <td>Python</td>
+      <td>Generate a complete word search <b>book</b> in a single click.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Muneer320/LEAP'>LEAP</a></td>
+      <td>Python</td>
+      <td>Generate a complete <b>sudoku book</b> but with a twist, you can only solve a puzzle if you have already solved the previous one!</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Muneer320/Flask-Download-It'>Download-It</a></td>
+      <td>Python, Flask</td>
+      <td>Online video downloader built with Python's Flask</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Muneer320/FunChat'>FunChat</a></td>
+      <td>HTML, Javascript, Firebase</td>
+      <td>A simple web-based chat application with firebase-db (made it when I was first learning about databases, it has no concept of privacy, data protection or sanitization etc)</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Muneer320/Abstracta2.0'>Abstracta</a></td>
+      <td>Python, Numpy</td>
+      <td>Recreate any image using primitive shapes like circles or triangles.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Muneer320/Chess'>Chess Programs</a></td>
+      <td>Python, Tkinter</td>
+      <td>A basic tkinter GUI for a game of chess against a human or my implimentation of a basic bot. Also there are other things, like playing only with algebraic notation for learning it and more.</td>
+    </tr>
+    <tr>
+      <td><a href='https://muneer320.github.io/Blogg/'>Blog Site</a></td>
+      <td>Html, CSS, Javascript</td>
+      <td>Basic Glassmorphic blogging site. (Nothing too fancy, just from the time I learned about glassmorphic designs and wanted to make something myself)</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Muneer320/sort-image'>Sort Image</a></td>
+      <td>Python, Pillow</td>
+      <td>Shows various sorting Algorithms visually, by taking an image, breaking it down into smaller fragments and sorting it according to the requested sorting algorithm.</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end project section -->
+
+<!-- start statics fun section -->
+<details>
+<summary><b> Some GitHub Stats </b></summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muneer320&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneer320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=muneer320&theme=dracula&column=5)](https://github.com/muneer320/)
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=muneer320&theme=dracula)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneer320&theme=dracula)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muneer320&theme=dracula)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muneer320&theme=dracula)
+
+</div>
+</details>
+<!-- end statics fun section -->
