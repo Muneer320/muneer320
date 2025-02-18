@@ -24,3 +24,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_OS: "True"
+
+
+          .github/workflows/update-stats.yml
