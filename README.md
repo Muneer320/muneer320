@@ -93,11 +93,11 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/kCbur9vZ">
+  <a target="_blank" href="https://discord.gg/kCbur9vZ">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-  <a href="mailto:muneer.alam320@gmail.com">
+  <a target="_blank" href="mailto:muneer.alam320@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
-  <a href="https://linkedin.com/in/muneer320">
+  <a target="_blank" href="https://linkedin.com/in/muneer320">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
@@ -133,42 +133,42 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/Muneer320/BOOP'>BOOP</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/BOOP'>BOOP</a></td>
       <td>Python</td>
       <td>Generate a complete word search <b>book</b> in a single click.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/Muneer320/LEAP'>LEAP</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/LEAP'>LEAP</a></td>
       <td>Python</td>
       <td>Generate a complete <b>sudoku book</b> but with a twist, you can only solve a puzzle if you have already solved the previous one!</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/Muneer320/Flask-Download-It'>Download-It</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/Flask-Download-It'>Download-It</a></td>
       <td>Python, Flask</td>
       <td>Online video downloader built with Python's Flask</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/Muneer320/FunChat'>FunChat</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/FunChat'>FunChat</a></td>
       <td>HTML, Javascript, Firebase</td>
       <td>A simple web-based chat application with firebase-db (made it when I was first learning about databases, it has no concept of privacy, data protection or sanitization etc)</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/Muneer320/Abstracta2.0'>Abstracta</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/Abstracta2.0'>Abstracta</a></td>
       <td>Python, Numpy</td>
       <td>Recreate any image using primitive shapes like circles or triangles.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/Muneer320/Chess'>Chess Programs</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/Chess'>Chess Programs</a></td>
       <td>Python, Tkinter</td>
       <td>A basic tkinter GUI for a game of chess against a human or my implimentation of a basic bot. Also there are other things, like playing only with algebraic notation for learning it and more.</td>
     </tr>
     <tr>
-      <td><a href='https://muneer320.github.io/Blogg/'>Blog Site</a></td>
+      <td><a target="_blank" href='https://muneer320.github.io/Blogg/'>Blog Site</a></td>
       <td>Html, CSS, Javascript</td>
       <td>Basic Glassmorphic blogging site. (Nothing too fancy, just from the time I learned about glassmorphic designs and wanted to make something myself)</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/Muneer320/sort-image'>Sort Image</a></td>
+      <td><a target="_blank" href='https://github.com/Muneer320/sort-image'>Sort Image</a></td>
       <td>Python, Pillow</td>
       <td>Shows various sorting Algorithms visually, by taking an image, breaking it down into smaller fragments and sorting it according to the requested sorting algorithm.</td>
     </tr>
