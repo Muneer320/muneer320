@@ -210,8 +210,6 @@
 
 > 📦 365.2 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 90 Public Repositories 
@@ -266,7 +264,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2025 19:23:11 UTC
+ Last Updated on 20/02/2025 19:25:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
