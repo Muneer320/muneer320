@@ -4,11 +4,8 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
+  # Allow manual triggering of the workflow
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
