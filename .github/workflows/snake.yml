@@ -6,7 +6,6 @@ on:
     - cron: '30 18 * * *'
   # Allow manual triggering of the workflow
   workflow_dispatch:
-  # Trigger the workflow manually
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,9 +18,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
+          github_user_name: muneer320
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -35,4 +32,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
