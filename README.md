@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/muneer320/count.svg?"  />
+  <img src="https://api.visitorbadge.io/api/visitors?path=muneer320&labelColor=%23282a36&countColor=%230c7ebf"  />
 </div>
 
 ###
