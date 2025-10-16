@@ -21,6 +21,10 @@
 
 ###
 
+[![An image of @muneer320's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muneer320)](https://holopin.io/@muneer320)
+
+###
+
 <img align="right" height="150" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"/>
 
 ###
