@@ -1,9 +1,9 @@
 name: GitHub Snake Game
 
 on:
-  schedule:
+  #schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+   # - cron: '30 18 * * *'
   # Allow manual triggering of the workflow
   workflow_dispatch:
 jobs:
