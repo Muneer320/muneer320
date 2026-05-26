@@ -1,283 +1,403 @@
-<h2 align="left">Hi 👋! My name is Muneer Alam and I am a 19-year-old Computer Science student from Delhi, India. </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=5865F2&center=true&vCenter=true&width=900&lines=creative+systems+engineer;backend+infrastructure+%C2%B7+AI+tooling+%C2%B7+controlled+chaos;building+ambitious+systems+and+weird+experiments;shipping+fast%2C+breaking+things%2C+fixing+them" />
+</p>
 
-###
+<h1 align="center">Muneer Alam</h1>
 
-- 🏫 I'm pursuing Bachelors in Computer Science
-- 🔭 I’m currently working on  **Backend Development**
-- 😐 I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with Graphical Databases, API Development, Machine Learning <sub><i>and more</i></sub>
-- 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about anything, and everything <sub>(I may not be able to answer, but I'll at least give it a thought)</sub>
-- 💡 Interested in participating in **Hackathons**
-- ⚡ Languages: **Python3 | C++ | C# | JavaScript | Lua | HTML**
+<p align="center">
+  <b>creative systems engineer</b> · backend infra · ai · distributed systems · controlled chaos
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/muneer320">
+    <img src="https://img.shields.io/github/followers/muneer320?style=flat&label=followers&logo=github&color=5865F2" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=muneer320&style=flat&color=5865F2&label=profile+views" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneer320&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneer320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<sub>Note: Most used language ≠ Most skilled language (and vice versa)</sub>
+  <a href="https://muneer320.tech">
+    <img src="https://img.shields.io/badge/portfolio-muneer320.tech-000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 
-###
+  <a href="https://linkedin.com/in/muneer320">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin" />
+  </a>
 
-[![An image of @muneer320's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muneer320)](https://holopin.io/@muneer320)
+  <a href="mailto:muneer.alam320@gmail.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <i>building scalable systems, strange experiments, and products that probably should not exist.</i>
+</p>
 
-<img align="right" height="150" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif"/>
+---
 
-###
+```text
+$ whoami
+→ creative systems engineer from Bengaluru, India
 
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
+  backend systems · infrastructure · automation
+  AI tooling · real-time platforms · distributed systems
+  creative coding · puzzle systems · developer tooling
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio logo"  />
-  <img width="12" />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
+$ currently_shipping
+→ AI agents with browser/tool control
+→ event-tech infrastructure
+→ OpenCV experimentation
+→ storage engines & backend tooling
+→ automation systems & weird side projects
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="neovim logo"  />
-  <img width="12" />
-</div>
+$ fun_facts
+→ Arch Linux + Hyprland daily driver
+→ ranked top 50 globally in Codingame Clash of Code
+→ co-founder @ ParaPixel DigiServices
+→ admin for 800+ member SST student community
+→ builds puzzle systems for fun like a psychopath
 
-###
+$ philosophy
+→ ship fast, break things, fix them, iterate
+→ boring is bad
+```
 
-<div align="center">
-  <a target="_blank" href="https://discord.gg/kCbur9vZ">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-  <a target="_blank" href="mailto:muneer.alam320@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
-  <a target="_blank" href="https://linkedin.com/in/muneer320">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-</div>
+---
 
-###
+# some projects
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=muneer320&labelColor=%23282a36&countColor=%230c7ebf"  />
-</div>
+## Ascent Dashboard · [`repo`](https://github.com/Muneer320/dashboard) · [`live`](https://ascent.scaler.com)
 
-###
+Production-grade full-stack platform powering a large-scale college techfest.
 
-<br clear="both">
+* QR check-ins
+* AI-powered photo gallery
+* gamified leaderboards
+* event registrations
+* submissions & judging
+* role-based admin systems
 
+> **62k+ LOC · 30+ backend services · production event infrastructure**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/refs/heads/output/github-snake.svg"  />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Muneer320/muneer320/refs/heads/output/github-snake.svg" />
-</picture>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+## RhinoBox · [`repo`](https://github.com/Muneer320/RhinoBox)
+
+Schema-aware intelligent storage engine built in Go.
+
+Routes structured data between SQL and NoSQL systems automatically with intelligent schema analysis, async pipelines, and multi-level caching.
+
+> **systems engineering · async processing · schema-aware routing**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>
+
+---
+
+## BOOP · [`repo`](https://github.com/Muneer320/BOOP)
+
+Puzzle-book generation platform that evolved from a Python CLI into a full-stack web system.
+
+Generates complete printable puzzle books with categorization, exports, layouts, and generation pipelines.
+
+> **automated puzzle generation · printable book engine · full-stack evolution**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## Linux Simulation Portfolio · [`repo`](https://github.com/Muneer320/portfolio) · [`live`](https://muneer320.tech)
 
-<!-- start project section -->
+Interactive Linux-inspired portfolio experience designed as a terminal/simulation environment for exploring projects, systems, experiments, and technical work.
+
+Features terminal-style navigation, animated UI systems, project exploration, and an experimental developer-focused interface.
+
+> **linux-inspired UX · interactive terminal simulation · experimental developer portfolio**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+</p>
+
+
+
+# other projects
+
+## Finity · [`repo`](https://github.com/Muneer320/finity) · [`live`](https://finity-rust.vercel.app)
+
+AI-powered fintech gamification platform focused on rewards, spending insights, and behavioral systems.
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-412991?style=flat" />
+  <img src="https://img.shields.io/badge/Gamification-FF6B6B?style=flat" />
+</p>
+
+---
+
+## Oratio · [`repo`](https://github.com/Muneer320/oratio)
+
+Real-time AI debate platform where AI judges evaluate and score arguments live.
+
+> **real-time WebSockets · AI judging pipeline**
+
+<p>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+</p>
+
+---
+
+## CPStats API · [`repo`](https://github.com/Muneer320/CPStats-API) · [`live`](https://muneer320-cpstats-api.hf.space)
+
+Unified API aggregating competitive programming stats from multiple platforms.
+
+> **live API · scraping systems · Discord integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-4EAA25?style=flat" />
+  <img src="https://img.shields.io/badge/API_Aggregation-5865F2?style=flat" />
+</p>
+
+---
+
+## SST Lounge Bot · [`repo`](https://github.com/Muneer320/SST-Lounge-Bot)
+
+Automation-heavy Discord bot powering the SST Batch '29 community ecosystem.
+
+> **community infrastructure · moderation · automation systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-FF6B6B?style=flat" />
+</p>
+
+---
+
+# experiments / side projects / open source
+
+## Abstracta2.0 · [`repo`](https://github.com/Muneer320/Abstracta2.0)
+
+Recreates images using primitive geometric shapes through evolutionary optimization.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative_Coding-FF6B6B?style=flat" />
+</p>
+
+---
+
+## LEAP · [`repo`](https://github.com/Muneer320/LEAP)
+
+Interconnected Sudoku puzzle generator where every puzzle unlocks the next.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Constraint_Solving-5865F2?style=flat" />
+  <img src="https://img.shields.io/badge/Algorithm_Design-FF6B6B?style=flat" />
+</p>
+
+---
+
+# tech stack
+
+### languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+### backend & infra
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+### databases & realtime
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat" />
+</p>
+
+### ai / ml / cv
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pillow-8CAAE6?style=flat" />
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat" />
+  <img src="https://img.shields.io/badge/AI_Pipelines-5865F2?style=flat" />
+</p>
+
+### tooling & environment
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_Bash-121011?style=flat&logo=gitforwindows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" />
+</p>
+
+
+---
+
+# currently obsessed with
+
+* browser-controlled AI agents
+* multimodal workflows
+* OpenCV systems
+* infrastructure automation
+* AI-assisted tooling
+* distributed backend architectures
+
+---
+
+# developer telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muneer320&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+
+  <img src="https://streak-stats.demolab.com?user=muneer320&theme=tokyonight&hide_border=true" height="150" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muneer320&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
+</p>
+
+---
+
 <details>
-<summary><b> Some of my Projects 👉 </b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/BOOP'>BOOP</a></td>
-      <td>Python</td>
-      <td>Generate a complete word search <b>book</b> in a single click.</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/LEAP'>LEAP</a></td>
-      <td>Python</td>
-      <td>Generate a complete <b>sudoku book</b> but with a twist, you can only solve a puzzle if you have already solved the previous one!</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/Flask-Download-It'>Download-It</a></td>
-      <td>Python, Flask</td>
-      <td>Online video downloader built with Python's Flask</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/FunChat'>FunChat</a></td>
-      <td>HTML, Javascript, Firebase</td>
-      <td>A simple web-based chat application with firebase-db (made it when I was first learning about databases, it has no concept of privacy, data protection or sanitization etc)</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/Abstracta2.0'>Abstracta</a></td>
-      <td>Python, Numpy</td>
-      <td>Recreate any image using primitive shapes like circles or triangles.</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/Chess'>Chess Programs</a></td>
-      <td>Python, Tkinter</td>
-      <td>A basic tkinter GUI for a game of chess against a human or my implimentation of a basic bot. Also there are other things, like playing only with algebraic notation for learning it and more.</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://muneer320.github.io/Blogg/'>Blog Site</a></td>
-      <td>Html, CSS, Javascript</td>
-      <td>Basic Glassmorphic blogging site. (Nothing too fancy, just from the time I learned about glassmorphic designs and wanted to make something myself)</td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href='https://github.com/Muneer320/sort-image'>Sort Image</a></td>
-      <td>Python, Pillow</td>
-      <td>Shows various sorting Algorithms visually, by taking an image, breaking it down into smaller fragments and sorting it according to the requested sorting algorithm.</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-<!-- end project section -->
+<summary><b>🏆 community / hackathons / open source</b></summary>
 
-<!-- start statics fun section -->
+<br>
+
+<p align="center">
+  <a href="https://holopin.io/@muneer320">
+    <img src="https://holopin.me/muneer320" />
+  </a>
+</p>
+
+### community & ecosystem
+
+* admin for SST student community ecosystem with 800+ members
+* built Discord automation & moderation systems
+* hackathon participant & builder
+* contributor to open-source tooling
+* built systems for real-world events and communities
+
+### notable things
+
+* ranked under top 50 globally in Codingame Clash of Code
+* co-founder @ ParaPixel DigiServices
+* built production event-management systems
+* active in backend infra & AI experimentation
+
+</details>
+
+---
+
 <details>
-<summary><b> Some GitHub Stats </b></summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneer320&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneer320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<summary><b>⚡ coding activity</b></summary>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=muneer320&theme=dracula&column=5)](https://github.com/muneer320/)
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=muneer320&theme=dracula)
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneer320&theme=dracula)
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muneer320&theme=dracula)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muneer320&theme=dracula)
-
-</div>
-</details>
-<!-- end statics fun section -->
-
-<!-- start programming stats -->
-<details> 
- <summary>🤖 <b>My programming stats</b> </summary>
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 556.8 kB Used in GitHub's Storage 
- > 
-> 🏆 431 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 91 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-🌆 Daytime                453 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌃 Evening                636 commits         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌙 Night                  1129 commits        ███████████░░░░░░░░░░░░░░   45.75 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Tuesday                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Wednesday                365 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Saturday                 472 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Sunday                   482 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.78 % 
-Other                    2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.86 % 
-JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   55 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-JavaScript               29 repos            ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-```
-
-
-
-
- Last Updated on 25/05/2026 20:10:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
+
+---
+
+<details>
+<summary><b>🧪 random terminal nonsense</b></summary>
+
+<br>
+
+```bash
+$ sudo rm -rf bugs
+[sudo] password for muneer:
+→ permission denied
+
+$ git commit -m "temporary fix"
+→ 7 months ago
+
+$ arch
+→ btw yes
+```
+
+</details>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
