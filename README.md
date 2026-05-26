@@ -366,7 +366,69 @@ Interconnected Sudoku puzzle generator where every puzzle unlocks the next.
 <br>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
 
+**🐱 My GitHub Data** 
+
+> 📦 556.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 432 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 91 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+🌆 Daytime                453 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌃 Evening                638 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌙 Night                  1130 commits        ███████████░░░░░░░░░░░░░░   45.73 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                365 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Saturday                 472 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Sunday                   482 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   2 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+Other                    2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.64 % 
+JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+
+💻 Operating System: 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   55 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+JavaScript               29 repos            ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
+
+
+
+
+ Last Updated on 26/05/2026 17:36:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
