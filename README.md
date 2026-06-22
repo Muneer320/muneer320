@@ -24,6 +24,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/repos-90+-5865F2?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/contributions-700+-5865F2?style=flat" />
+  <img src="https://img.shields.io/badge/stars-30+-5865F2?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/lines-3.34M-5865F2?style=flat" />
+</p>
+
 ---
 
 ```text
@@ -45,6 +52,10 @@ $ philosophy
 → ship fast, break things, fix them, iterate
 → boring is bad
 ```
+
+<p align="center">
+  <sub>open to interesting collaborations · co-founder at <a href="https://github.com/ParaPixel-DigiServices">ParaPixel DigiServices</a> · Bengaluru 🇮🇳</sub>
+</p>
 
 ---
 
@@ -71,7 +82,7 @@ $ philosophy
 
 ---
 
-## all projects
+## selected work
 
 | Project | Description | Stack |
 |---|---|---|
@@ -92,11 +103,14 @@ $ philosophy
 | [**Sandhya Foods**](https://github.com/ParaPixel-DigiServices/sandhya-foods) · [live](https://sandhya-foods.vercel.app) | E-commerce platform with Razorpay payments, Supabase, WhatsApp notifications | `Next.js` `TypeScript` `Supabase` `Razorpay` `TailwindCSS` |
 | [**Vector**](https://github.com/AmoghRao21/vector) · [live](https://vector-lovat.vercel.app) | AI tutoring platform for NSET exam prep — mock tests, AI interviews | `React` `Node.js` `MongoDB` `Gemini` |
 | [**Flask Download-It**](https://github.com/Muneer320/Flask-Download-It) · [live](https://flask-download-it.onrender.com) | Universal video downloader — YouTube, Instagram, Reddit, multi-platform | `Python` `Flask` `youtube-dl` `Bootstrap` |
+<br>
+<sub>**90+ repositories on GitHub** — this is a curated selection. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
 
 ---
 
 ## tech stack
 
+**languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -104,30 +118,48 @@ $ philosophy
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
-  &nbsp;&nbsp;
+</p>
+
+**frameworks & runtimes**
+<p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+</p>
+
+**databases & storage**
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+</p>
+
+**infrastructure & tooling**
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**AI & computer vision**
+<p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+**environment**
+<p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
