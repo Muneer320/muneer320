@@ -89,13 +89,11 @@ $ philosophy
 | [**Ascent Dashboard**](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com) | Full-stack techfest platform — QR, AI gallery, gamification, admin panel | `FastAPI` `React` `PostgreSQL` `Redis` `Supabase` `Docker` |
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
 | [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
-| [**XeroDay APISniffer**](https://github.com/Muneer320/XeroDay-APISniffer) | Modular toolkit for scanning GitHub repos for exposed API keys and secrets | `Python` `GitHub API` `Security` |
 | [**EcoLoop**](https://github.com/muneer406/EcoLoop) | Sustainability-focused full-stack app with Supabase backend | `Next.js` `TypeScript` `Supabase` `TailwindCSS` `shadcn/ui` |
 | [**Finity**](https://github.com/Muneer320/finity) · [live](https://finity-rust.vercel.app) | AI-powered fintech gamification — paper trading, AI coach, micro-courses | `FastAPI` `React` `OpenAI` `Gemini` `TailwindCSS` |
 | [**Oratio**](https://github.com/Muneer320/oratio) | Real-time AI debate arena — WebSocket rooms, AI judge scoring via LCR model | `FastAPI` `React` `WebSockets` `Gemini` `Docker` |
 | [**SST Lounge Bot**](https://github.com/Muneer320/SST-Lounge-Bot) | Discord bot — contest tracking (CF/CC/AC/LC), auto roles, self-updating | `Python` `discord.py` `SQLite` `clist.by API` |
 | [**CPStats API**](https://github.com/Muneer320/CPStats-API) · [live](https://muneer320-cpstats-api.hf.space) | Aggregated competitive programming ratings from 4 platforms, cached | `FastAPI` `Docker` `LRU Cache` `API Auth` |
-| [**Dating Platform**](https://github.com/ParaPixel-DigiServices/dating-platform) | Client project — full-stack dating platform (ParaPixel DigiServices) | `Next.js` `TypeScript` `Supabase` |
 | [**LEAP**](https://github.com/Muneer320/LEAP) | Linked Sudoku books — each puzzle's solution unlocks the next | `Python` `ReportLab` `Constraint Solving` |
 | [**Abstracta2.0**](https://github.com/Muneer320/Abstracta2.0) | Recreates images using primitive shapes via evolutionary optimization | `Python` `NumPy` `Creative Coding` |
 | [**RehabFlow AI**](https://github.com/AmoghRao21/RehabFlow_AI) | AI rehab planner — MedGemma + BLIP for injury analysis & recovery plans | `Next.js` `FastAPI` `Supabase` `Redis` `Modal` |
@@ -104,6 +102,7 @@ $ philosophy
 | [**Vector**](https://github.com/AmoghRao21/vector) · [live](https://vector-lovat.vercel.app) | AI tutoring platform for NSET exam prep — mock tests, AI interviews | `React` `Node.js` `MongoDB` `Gemini` |
 | [**Flask Download-It**](https://github.com/Muneer320/Flask-Download-It) · [live](https://flask-download-it.onrender.com) | Universal video downloader — YouTube, Instagram, Reddit, multi-platform | `Python` `Flask` `youtube-dl` `Bootstrap` |
 <br>
+
 <sub>**90+ repositories on GitHub** — this is a curated selection. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
 
 ---
