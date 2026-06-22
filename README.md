@@ -5,7 +5,7 @@
 <h1 align="center">Muneer Alam</h1>
 
 <p align="center">
-  <b>creative systems engineer</b> · backend infra · ai · distributed systems · controlled chaos
+  <b>creative systems engineer</b> · backend infra · distributed systems · AI tooling
 </p>
 
 <p align="center">
@@ -13,22 +13,15 @@
     <img src="https://img.shields.io/github/followers/muneer320?style=flat&label=followers&logo=github&color=5865F2" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=muneer320&style=flat&color=5865F2&label=profile+views" />
-
   <a href="https://muneer320.tech">
     <img src="https://img.shields.io/badge/portfolio-muneer320.tech-000?style=flat&logo=vercel&logoColor=white" />
   </a>
-
   <a href="https://linkedin.com/in/muneer320">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin" />
   </a>
-
   <a href="mailto:muneer.alam320@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <i>building scalable systems, strange experiments, and products that probably should not exist.</i>
 </p>
 
 ---
@@ -37,16 +30,9 @@
 $ whoami
 → creative systems engineer from Bengaluru, India
 
-  backend systems · infrastructure · automation
-  AI tooling · real-time platforms · distributed systems
-  creative coding · puzzle systems · developer tooling
-
-$ currently_shipping
-→ AI agents with browser/tool control
-→ event-tech infrastructure
-→ OpenCV experimentation
-→ storage engines & backend tooling
-→ automation systems & weird side projects
+  backend systems  ·  infrastructure  ·  automation
+  AI tooling  ·  real-time platforms  ·  distributed systems
+  creative coding  ·  puzzle systems  ·  developer tooling
 
 $ fun_facts
 → Arch Linux + Hyprland daily driver
@@ -62,269 +48,109 @@ $ philosophy
 
 ---
 
-# some projects
+## featured
 
-## Ascent Dashboard · [`repo`](https://github.com/Muneer320/dashboard) · [`live`](https://ascent.scaler.com)
+> ### [Ascent Dashboard](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com)
+> Production full-stack platform powering a large-scale college techfest. QR-based check-ins, AI-powered photo gallery (Mirage), gamified coins/sidequest economy, real-time leaderboards, team submissions, role-based admin panel.
+>
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+>
+> 62k+ LOC · 32 services · 41 migrations · 24 admin tabs · production event infra
 
-Production-grade full-stack platform powering a large-scale college techfest.
+> ### [RhinoBox](https://github.com/Muneer320/RhinoBox)
+> Intelligent multi-modal storage engine. Accepts any data through one API, auto-categorizes, deduplicates, and routes to optimal backend — PostgreSQL for relational, MongoDB for documents. 3-level caching, async job queues, full-text search.
+>
+> ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+>
+> 30+ REST endpoints · 3.6M ops/sec cache · dual database routing
 
-* QR check-ins
-* AI-powered photo gallery
-* gamified leaderboards
-* event registrations
-* submissions & judging
-* role-based admin systems
-
-> **62k+ LOC · 30+ backend services · production event infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-</p>
+> ### [Portfolio](https://github.com/Muneer320/Portfolio) · [live](https://muneer320.tech)
+> Interactive Linux-inspired terminal portfolio. Explore projects through a simulated shell environment with animated UI, command navigation, and experimental developer-focused interface.
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 ---
 
-## RhinoBox · [`repo`](https://github.com/Muneer320/RhinoBox)
+## all projects
 
-Schema-aware intelligent storage engine built in Go.
-
-Routes structured data between SQL and NoSQL systems automatically with intelligent schema analysis, async pipelines, and multi-level caching.
-
-> **systems engineering · async processing · schema-aware routing**
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-</p>
-
----
-
-## BOOP · [`repo`](https://github.com/Muneer320/BOOP)
-
-Puzzle-book generation platform that evolved from a Python CLI into a full-stack web system.
-
-Generates complete printable puzzle books with categorization, exports, layouts, and generation pipelines.
-
-> **automated puzzle generation · printable book engine · full-stack evolution**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
+| Project | Description | Stack |
+|---|---|---|
+| [**Ascent Dashboard**](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com) | Full-stack techfest platform — QR, AI gallery, gamification, admin panel | `FastAPI` `React` `PostgreSQL` `Redis` `Supabase` `Docker` |
+| [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
+| [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
+| [**XeroDay APISniffer**](https://github.com/Muneer320/XeroDay-APISniffer) | Modular toolkit for scanning GitHub repos for exposed API keys and secrets | `Python` `GitHub API` `Security` |
+| [**EcoLoop**](https://github.com/muneer406/EcoLoop) | Sustainability-focused full-stack app with Supabase backend | `Next.js` `TypeScript` `Supabase` `TailwindCSS` `shadcn/ui` |
+| [**Finity**](https://github.com/Muneer320/finity) · [live](https://finity-rust.vercel.app) | AI-powered fintech gamification — paper trading, AI coach, micro-courses | `FastAPI` `React` `OpenAI` `Gemini` `TailwindCSS` |
+| [**Oratio**](https://github.com/Muneer320/oratio) | Real-time AI debate arena — WebSocket rooms, AI judge scoring via LCR model | `FastAPI` `React` `WebSockets` `Gemini` `Docker` |
+| [**SST Lounge Bot**](https://github.com/Muneer320/SST-Lounge-Bot) | Discord bot — contest tracking (CF/CC/AC/LC), auto roles, self-updating | `Python` `discord.py` `SQLite` `clist.by API` |
+| [**CPStats API**](https://github.com/Muneer320/CPStats-API) · [live](https://muneer320-cpstats-api.hf.space) | Aggregated competitive programming ratings from 4 platforms, cached | `FastAPI` `Docker` `LRU Cache` `API Auth` |
+| [**Dating Platform**](https://github.com/ParaPixel-DigiServices/dating-platform) | Client project — full-stack dating platform (ParaPixel DigiServices) | `Next.js` `TypeScript` `Supabase` |
+| [**LEAP**](https://github.com/Muneer320/LEAP) | Linked Sudoku books — each puzzle's solution unlocks the next | `Python` `ReportLab` `Constraint Solving` |
+| [**Abstracta2.0**](https://github.com/Muneer320/Abstracta2.0) | Recreates images using primitive shapes via evolutionary optimization | `Python` `NumPy` `Creative Coding` |
+| [**RehabFlow AI**](https://github.com/AmoghRao21/RehabFlow_AI) | AI rehab planner — MedGemma + BLIP for injury analysis & recovery plans | `Next.js` `FastAPI` `Supabase` `Redis` `Modal` |
+| [**Surjit Hockey**](https://github.com/ParaPixel-DigiServices/surjit-hockey) · [live](https://surjit-hockey.vercel.app) | Tournament management platform for premier Indian hockey tournament | `FastAPI` `React` `MySQL` `TailwindCSS` |
+| [**Sandhya Foods**](https://github.com/ParaPixel-DigiServices/sandhya-foods) · [live](https://sandhya-foods.vercel.app) | E-commerce platform with Razorpay payments, Supabase, WhatsApp notifications | `Next.js` `TypeScript` `Supabase` `Razorpay` `TailwindCSS` |
+| [**Vector**](https://github.com/AmoghRao21/vector) · [live](https://vector-lovat.vercel.app) | AI tutoring platform for NSET exam prep — mock tests, AI interviews | `React` `Node.js` `MongoDB` `Gemini` |
+| [**Flask Download-It**](https://github.com/Muneer320/Flask-Download-It) · [live](https://flask-download-it.onrender.com) | Universal video downloader — YouTube, Instagram, Reddit, multi-platform | `Python` `Flask` `youtube-dl` `Bootstrap` |
 
 ---
 
-## Linux Simulation Portfolio · [`repo`](https://github.com/Muneer320/portfolio) · [`live`](https://muneer320.tech)
-
-Interactive Linux-inspired portfolio experience designed as a terminal/simulation environment for exploring projects, systems, experiments, and technical work.
-
-Features terminal-style navigation, animated UI systems, project exploration, and an experimental developer-focused interface.
-
-> **linux-inspired UX · interactive terminal simulation · experimental developer portfolio**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-</p>
-
-
-
-# other projects
-
-## Finity · [`repo`](https://github.com/Muneer320/finity) · [`live`](https://finity-rust.vercel.app)
-
-AI-powered fintech gamification platform focused on rewards, spending insights, and behavioral systems.
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-412991?style=flat" />
-  <img src="https://img.shields.io/badge/Gamification-FF6B6B?style=flat" />
-</p>
-
----
-
-## Oratio · [`repo`](https://github.com/Muneer320/oratio)
-
-Real-time AI debate platform where AI judges evaluate and score arguments live.
-
-> **real-time WebSockets · AI judging pipeline**
-
-<p>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-</p>
-
----
-
-## CPStats API · [`repo`](https://github.com/Muneer320/CPStats-API) · [`live`](https://muneer320-cpstats-api.hf.space)
-
-Unified API aggregating competitive programming stats from multiple platforms.
-
-> **live API · scraping systems · Discord integrations**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Scraping-4EAA25?style=flat" />
-  <img src="https://img.shields.io/badge/API_Aggregation-5865F2?style=flat" />
-</p>
-
----
-
-## SST Lounge Bot · [`repo`](https://github.com/Muneer320/SST-Lounge-Bot)
-
-Automation-heavy Discord bot powering the SST Batch '29 community ecosystem.
-
-> **community infrastructure · moderation · automation systems**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF6B6B?style=flat" />
-</p>
-
----
-
-# experiments / side projects / open source
-
-## Abstracta2.0 · [`repo`](https://github.com/Muneer320/Abstracta2.0)
-
-Recreates images using primitive geometric shapes through evolutionary optimization.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative_Coding-FF6B6B?style=flat" />
-</p>
-
----
-
-## LEAP · [`repo`](https://github.com/Muneer320/LEAP)
-
-Interconnected Sudoku puzzle generator where every puzzle unlocks the next.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Constraint_Solving-5865F2?style=flat" />
-  <img src="https://img.shields.io/badge/Algorithm_Design-FF6B6B?style=flat" />
-</p>
-
----
-
-# tech stack
-
-### languages
+## tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
-
-### backend & infra
-
-<p>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-### databases & realtime
-
-<p>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-### frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat" />
-</p>
-
-### ai / ml / cv
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pillow-8CAAE6?style=flat" />
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat" />
-  <img src="https://img.shields.io/badge/AI_Pipelines-5865F2?style=flat" />
-</p>
-
-### tooling & environment
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_Bash-121011?style=flat&logo=gitforwindows&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" />
 </p>
 
+---
+
+## currently building
+
+- AI agents with browser & tool control (Hermes Agent ecosystem)
+- Full-stack client platforms via ParaPixel DigiServices
+- Security tooling — automated secret scanning & API reconnaissance
+- OpenCV experimentation & computer vision pipelines
+- Community infrastructure for 800+ student ecosystem
 
 ---
 
-# currently obsessed with
-
-* browser-controlled AI agents
-* multimodal workflows
-* OpenCV systems
-* infrastructure automation
-* AI-assisted tooling
-* distributed backend architectures
-
----
-
-# developer telemetry
+## developer telemetry
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muneer320&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
-
   <img src="https://streak-stats.demolab.com?user=muneer320&theme=tokyonight&hide_border=true" height="150" />
-
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muneer320&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
 </p>
 
@@ -332,7 +158,6 @@ Interconnected Sudoku puzzle generator where every puzzle unlocks the next.
 
 <details>
 <summary><b>🏆 community / hackathons / open source</b></summary>
-
 <br>
 
 <p align="center">
@@ -343,18 +168,18 @@ Interconnected Sudoku puzzle generator where every puzzle unlocks the next.
 
 ### community & ecosystem
 
-* admin for SST student community ecosystem with 800+ members
-* built Discord automation & moderation systems
-* hackathon participant & builder
-* contributor to open-source tooling
-* built systems for real-world events and communities
+- admin for SST student community ecosystem with 800+ members
+- built Discord automation & moderation systems
+- hackathon participant & builder
+- contributor to open-source tooling
+- built systems for real-world events and communities
 
-### notable things
+### notable
 
-* ranked under top 50 globally in Codingame Clash of Code
-* co-founder @ ParaPixel DigiServices
-* built production event-management systems
-* active in backend infra & AI experimentation
+- ranked under top 50 globally in Codingame Clash of Code
+- co-founder @ ParaPixel DigiServices
+- built production event-management systems
+- active in backend infra & AI experimentation
 
 </details>
 
@@ -362,7 +187,6 @@ Interconnected Sudoku puzzle generator where every puzzle unlocks the next.
 
 <details>
 <summary><b>⚡ coding activity</b></summary>
-
 <br>
 
 <!--START_SECTION:waka-->
@@ -427,7 +251,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
-
  Last Updated on 22/06/2026 21:21:41 UTC
 <!--END_SECTION:waka-->
 
@@ -437,7 +260,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 <details>
 <summary><b>🧪 random terminal nonsense</b></summary>
-
 <br>
 
 ```bash
