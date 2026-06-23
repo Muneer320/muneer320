@@ -86,7 +86,7 @@ $ philosophy
 
 | Project | Description | Stack |
 |---|---|---|
-| [**codelines**](https://github.com/Muneer320/countlines) · [PyPI](https://pypi.org/project/codelines/) | ⚡ Parallel LOC counter — multi-threaded, git-aware, Rich terminal UI | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
+| [**codelines**](https://github.com/Muneer320/codelines) · [PyPI](https://pypi.org/project/codelines/) | ⚡ Parallel LOC counter — multi-threaded, git-aware, Rich terminal UI | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
 | [**Ascent Dashboard**](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com) | Full-stack techfest platform — QR, AI gallery, gamification, admin panel | `FastAPI` `React` `PostgreSQL` `Redis` `Supabase` `Docker` |
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
 | [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
