@@ -204,6 +204,10 @@ $ philosophy
   <a href="https://holopin.io/@muneer320">
     <img src="https://holopin.me/muneer320" />
   </a>
+  <br><br>
+  <a href="https://dev.to/muneer320">
+    <img src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/badge/badge_image/470/GHco-26-04.png" width="120" height="120" alt="GitHub Copilot Finish-Up-A-Thon Challenge Completion" />
+  </a>
 </p>
 
 ### community & ecosystem
