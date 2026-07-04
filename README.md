@@ -80,6 +80,13 @@ $ philosophy
 >
 > ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
+> ### [Safedump](https://github.com/Muneer320/safedump) · [docs](https://github.com/Muneer320/safedump#readme) · [PyPI](https://pypi.org/project/safedump/)
+> Local-first crash diagnostics for Python. When your app crashes, captures every local variable, exception chain, and thread state — then saves it as a structured JSON file with automatic secret redaction. CLI viewer included. Zero cloud. Zero telemetry.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-006DAD?style=flat&logo=pypi&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-FF6F00?style=flat&logo=python&logoColor=white)
+>
+> 69 tests · 5 Python versions · 10 public API functions · MIT · 4 external contributors in week one
+
 ---
 
 ## selected work
@@ -87,6 +94,7 @@ $ philosophy
 | Project | Description | Stack |
 |---|---|---|
 | [**codelines**](https://github.com/Muneer320/codelines) · [PyPI](https://pypi.org/project/codelines/) | ⚡ Parallel LOC counter — multi-threaded, git-aware, Rich terminal UI | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
+| [**safedump**](https://github.com/Muneer320/safedump) · [PyPI](https://pypi.org/project/safedump/) | 🛡️ Local-first crash diagnostics — auto redact secrets, CLI viewer | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
 | [**Ascent Dashboard**](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com) | Full-stack techfest platform — QR, AI gallery, gamification, admin panel | `FastAPI` `React` `PostgreSQL` `Redis` `Supabase` `Docker` |
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
 | [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
