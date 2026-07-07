@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/repos-90+-5865F2?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/contributions-1.3k+-5865F2?style=flat" />
   <img src="https://img.shields.io/badge/stars-40+-5865F2?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/lines-3.34M-5865F2?style=flat" />
+  <img src="https://img.shields.io/badge/lines-3.72M-5865F2?style=flat" />
 </p>
 
 ---
