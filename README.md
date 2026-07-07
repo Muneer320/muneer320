@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/repos-90+-5865F2?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/contributions-1.3k+-5865F2?style=flat" />
-  <img src="https://img.shields.io/badge/stars-40+-5865F2?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/repos-95+-5865F2?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/contributions-1.6k+-5865F2?style=flat" />
+  <img src="https://img.shields.io/badge/stars-45+-5865F2?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/lines-3.72M-5865F2?style=flat" />
 </p>
 
@@ -96,23 +96,21 @@ $ philosophy
 | [**safedump**](https://github.com/Muneer320/safedump) · [PyPI](https://pypi.org/project/safedump/) | 🛡️ Local-first crash diagnostics — auto redact secrets, CLI viewer | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
 | [**codelines**](https://github.com/Muneer320/codelines) · [PyPI](https://pypi.org/project/codelines/) | ⚡ Parallel LOC counter — multi-threaded, git-aware, Rich terminal UI | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
 | [**Ascent Dashboard**](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com) | Full-stack techfest platform — QR, AI gallery, gamification, admin panel | `FastAPI` `React` `PostgreSQL` `Redis` `Supabase` `Docker` |
+| [**exHacker**](https://github.com/Muneer320/exHacker) | AI-powered product studio — idea to production blueprint in <30s with multi-model pipeline | `Next.js` `FastAPI` `Supabase` `DeepSeek` `GLM` `Vercel` |
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
 | [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
 | [**EcoLoop**](https://github.com/muneer406/EcoLoop) | Sustainability-focused full-stack app with Supabase backend | `Next.js` `TypeScript` `Supabase` `TailwindCSS` `shadcn/ui` |
 | [**Finity**](https://github.com/Muneer320/finity) · [live](https://finity-rust.vercel.app) | AI-powered fintech gamification — paper trading, AI coach, micro-courses | `FastAPI` `React` `OpenAI` `Gemini` `TailwindCSS` |
 | [**Oratio**](https://github.com/Muneer320/oratio) | Real-time AI debate arena — WebSocket rooms, AI judge scoring via LCR model | `FastAPI` `React` `WebSockets` `Gemini` `Docker` |
-| [**SST Lounge Bot**](https://github.com/Muneer320/SST-Lounge-Bot) | Discord bot — contest tracking (CF/CC/AC/LC), auto roles, self-updating | `Python` `discord.py` `SQLite` `clist.by API` |
+| [**teams-clone**](https://github.com/Muneer320/teams-clone) | Microsoft Teams RL environment — train AI agents on collaboration tasks with Gym-like API | `Python` `React` `WebSockets` `Docker` `Jupyter` |
+| [**GitGuild**](https://github.com/Muneer320/GitGuild) | Decentralized PR prediction markets — bonding curve economics on GitHub | `Next.js` `TypeScript` `Solidity` `Wagmi` `Hardhat` |
 | [**CPStats API**](https://github.com/Muneer320/CPStats-API) · [live](https://muneer320-cpstats-api.hf.space) | Aggregated competitive programming ratings from 4 platforms, cached | `FastAPI` `Docker` `LRU Cache` `API Auth` |
-| [**LEAP**](https://github.com/Muneer320/LEAP) | Linked Sudoku books — each puzzle's solution unlocks the next | `Python` `ReportLab` `Constraint Solving` |
-| [**Abstracta2.0**](https://github.com/Muneer320/Abstracta2.0) | Recreates images using primitive shapes via evolutionary optimization | `Python` `NumPy` `Creative Coding` |
-| [**RehabFlow AI**](https://github.com/AmoghRao21/RehabFlow_AI) | AI rehab planner — MedGemma + BLIP for injury analysis & recovery plans | `Next.js` `FastAPI` `Supabase` `Redis` `Modal` |
+| [**SST Lounge Bot**](https://github.com/Muneer320/SST-Lounge-Bot) | Discord bot for 800+ member community — contest tracking, auto roles, self-moderation | `Python` `discord.py` `SQLite` `clist.by API` |
 | [**Surjit Hockey**](https://github.com/ParaPixel-DigiServices/surjit-hockey) · [live](https://surjit-hockey.vercel.app) | Tournament management platform for premier Indian hockey tournament | `FastAPI` `React` `MySQL` `TailwindCSS` |
 | [**Sandhya Foods**](https://github.com/ParaPixel-DigiServices/sandhya-foods) · [live](https://sandhya-foods.vercel.app) | E-commerce platform with Razorpay payments, Supabase, WhatsApp notifications | `Next.js` `TypeScript` `Supabase` `Razorpay` `TailwindCSS` |
-| [**Vector**](https://github.com/AmoghRao21/vector) · [live](https://vector-lovat.vercel.app) | AI tutoring platform for NSET exam prep — mock tests, AI interviews | `React` `Node.js` `MongoDB` `Gemini` |
-| [**Flask Download-It**](https://github.com/Muneer320/Flask-Download-It) · [live](https://flask-download-it.onrender.com) | Universal video downloader — YouTube, Instagram, Reddit, multi-platform | `Python` `Flask` `youtube-dl` `Bootstrap` |
 <br>
 
-<sub>**90+ repositories on GitHub** — this is a curated selection. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
+<sub>**95+ repositories on GitHub** — this is a curated selection. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
 
 ---
 
@@ -136,6 +134,8 @@ $ philosophy
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
 **databases & storage**
@@ -146,6 +146,7 @@ $ philosophy
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 **infrastructure & tooling**
@@ -153,17 +154,22 @@ $ philosophy
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modal-1D1D1D?style=flat" />
 </p>
 
-**AI & computer vision**
+**AI / LLMs**
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat" />
+  <img src="https://img.shields.io/badge/DeepSeek-4F6AF0?style=flat" />
+  <img src="https://img.shields.io/badge/GLM-8B5CF6?style=flat" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat" />
+  <img src="https://img.shields.io/badge/Llama.cpp-00A86B?style=flat" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
 **environment**
@@ -172,17 +178,19 @@ $ philosophy
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ## currently building
 
-- AI agents with browser & tool control (Hermes Agent ecosystem)
-- Full-stack client platforms via ParaPixel DigiServices
-- Developer tooling — PyPI packages, CLI utilities, automation
-- OpenCV experimentation & computer vision pipelines
-- Community infrastructure for 800+ student ecosystem
+- **exHacker** — AI product studio: idea → production blueprint in under 30 seconds
+- **Hermes Agent ecosystem** — AI agents with browser & tool control
+- **Full-stack client platforms** via ParaPixel DigiServices
+- **Developer tooling** — PyPI packages (safedump, codelines), CLI utilities, automation
+- **Community infrastructure** — SST Lounge Bot & Discord automation for 800+ member ecosystem
 
 ---
 
@@ -213,7 +221,7 @@ $ philosophy
 ### community & ecosystem
 
 - admin for SST student community ecosystem with 800+ members
-- built Discord automation & moderation systems
+- built **SST Lounge Bot** — Discord automation, contest tracking, moderation systems
 - hackathon participant & builder
 - contributor to open-source tooling
 - built systems for real-world events and communities
