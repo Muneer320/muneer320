@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/repos-95+-5865F2?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/contributions-1.6k+-5865F2?style=flat" />
-  <img src="https://img.shields.io/badge/stars-45+-5865F2?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/repos-25+-5865F2?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/contributions-1.7k+-5865F2?style=flat" />
+  <img src="https://img.shields.io/badge/stars-85+-5865F2?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/lines-3.72M-5865F2?style=flat" />
 </p>
 
@@ -110,7 +110,7 @@ $ philosophy
 | [**Sandhya Foods**](https://github.com/ParaPixel-DigiServices/sandhya-foods) · [live](https://sandhya-foods.vercel.app) | E-commerce platform with Razorpay payments, Supabase, WhatsApp notifications | `Next.js` `TypeScript` `Supabase` `Razorpay` `TailwindCSS` |
 <br>
 
-<sub>**95+ repositories on GitHub** — this is a curated selection. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
+<sub>**95+ repositories on GitHub** — just the curated ones. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
 
 ---
 
