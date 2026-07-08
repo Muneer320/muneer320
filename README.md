@@ -40,6 +40,7 @@ $ whoami
   backend systems  ·  infrastructure  ·  automation
   AI tooling  ·  real-time platforms  ·  distributed systems
   creative coding  ·  puzzle systems  ·  developer tooling
+  archive @ muneer406
 
 $ fun_facts
 → Arch Linux + Hyprland daily driver
@@ -54,7 +55,7 @@ $ philosophy
 ```
 
 <p align="center">
-  <sub>open to interesting collaborations · co-founder at <a href="https://github.com/ParaPixel-DigiServices">ParaPixel DigiServices</a> · Bengaluru 🇮🇳</sub>
+  <sub>open to interesting collaborations · co-founder at <a href="https://github.com/ParaPixel-DigiServices">ParaPixel DigiServices</a> · Bengaluru 🇮🇳<br>archived experiments at <a href="https://github.com/muneer406">@muneer406</a></sub>
 </p>
 
 ---
