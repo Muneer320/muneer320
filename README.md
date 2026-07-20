@@ -100,7 +100,8 @@ $ philosophy
 | [**exHacker**](https://github.com/Muneer320/exHacker) | AI-powered product studio — idea to production blueprint in <30s with multi-model pipeline | `Next.js` `FastAPI` `Supabase` `DeepSeek` `GLM` `Vercel` |
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
 | [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
-| [**EcoLoop**](https://github.com/muneer406/EcoLoop) | Sustainability-focused full-stack app with Supabase backend | `Next.js` `TypeScript` `Supabase` `TailwindCSS` `shadcn/ui` |
+| [**Vector**](https://github.com/Muneer320/Vector) | AI-powered interview platform — adaptive Q&A, 1000+ variants, serving 300+ students | `FastAPI` `PostgreSQL` `OpenAI` `React` `Next.js` |
+| [**Rinse**](https://github.com/Muneer320/Rinse) | Privacy-first gallery cleaner — Tinder-style swipe, 100% on-device, 60fps animations | `React Native` `Expo` `Reanimated` `Gesture Handler` |
 | [**Finity**](https://github.com/Muneer320/finity) · [live](https://finity-rust.vercel.app) | AI-powered fintech gamification — paper trading, AI coach, micro-courses | `FastAPI` `React` `OpenAI` `Gemini` `TailwindCSS` |
 | [**Oratio**](https://github.com/Muneer320/oratio) | Real-time AI debate arena — WebSocket rooms, AI judge scoring via LCR model | `FastAPI` `React` `WebSockets` `Gemini` `Docker` |
 | [**teams-clone**](https://github.com/Muneer320/teams-clone) | Microsoft Teams RL environment — train AI agents on collaboration tasks with Gym-like API | `Python` `React` `WebSockets` `Docker` `Jupyter` |
@@ -119,6 +120,7 @@ $ philosophy
 
 **languages**
 <p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -132,6 +134,8 @@ $ philosophy
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
@@ -187,6 +191,7 @@ $ philosophy
 
 ## currently building
 
+- **Reflect** — personal finance spending insights with Flutter, Riverpod, and Supabase
 - **exHacker** — AI product studio: idea → production blueprint in under 30 seconds
 - **Hermes Agent ecosystem** — AI agents with browser & tool control
 - **Full-stack client platforms** via ParaPixel DigiServices
