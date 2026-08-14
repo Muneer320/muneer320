@@ -289,13 +289,14 @@ Sunday                   487 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 39 mins      █████████████████████████   99.56 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    14 hrs 43 mins      ████████████████████████░   94.88 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  10 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -307,17 +308,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            █████████░░░░░░░░░░░░░░░░   36.51 % 
-JavaScript               17 repos            ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-TypeScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   24 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               17 repos            ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+TypeScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 13/08/2026 19:35:45 UTC
+ Last Updated on 14/08/2026 19:29:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
