@@ -289,21 +289,22 @@ Sunday                   487 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 34 mins      ████████████████████████░   94.51 % 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    32 hrs 11 mins      ████████████████████████░   94.61 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  28 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  34 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (2.37%)
+⏱ AI Coding Time: 39 mins (1.95%)
 
-✍️ 281 lines written by AI, 9 lines written by hand (96.9% AI-written)
+✍️ 281 lines written by AI, 279 lines written by hand (50.18% AI-written)
 
 🔤 105,976 Input Tokens, 1,911 Output Tokens
 
@@ -314,10 +315,10 @@ Windows                  28 hrs 7 mins       ███████████�
 Github-Copilot           281 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.9% of written lines came from AI
+⚖️ Balanced with AI — 50.18% of written lines came from AI
 📚 Verbose Prompter — average 5,777 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 15.36% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 56.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -333,7 +334,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:05:37 UTC
+ Last Updated on 20/08/2026 19:13:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
