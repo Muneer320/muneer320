@@ -289,37 +289,37 @@ Sunday                   568 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 23 mins      ████████████████████████░   96.82 % 
-Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    28 hrs 4 mins       ████████████████████████░   94.68 % 
+Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+PowerShell               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+CSV                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  32 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (2.4%)
+⏱ AI Coding Time: 46 mins (2.6%)
 
-✍️ 139 lines written by AI, 16 lines written by hand (89.68% AI-written)
+✍️ 139 lines written by AI, 1,426,280 lines written by hand (0.01% AI-written)
 
-🔤 125,094 Input Tokens, 60,341 Output Tokens
+🔤 117,653 Input Tokens, 59,651 Output Tokens
 
 💵 $4.34 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Sonnet                   287 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.68% of written lines came from AI
-📚 Verbose Prompter — average 2,142 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.01% of written lines came from AI
+📚 Verbose Prompter — average 2,538 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 14.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -335,7 +335,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 21:14:50 UTC
+ Last Updated on 03/09/2026 21:15:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
