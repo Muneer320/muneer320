@@ -5,6 +5,11 @@ name: README health
 #   2. Dead widgets: stats cards that answer 200 with an "error" SVG body.
 # The second is invisible to an ordinary link checker, which is how a broken
 # stats card can sit on a profile for months.
+#
+# pypi.org is excluded: it answers 503 to datacenter IPs, so a runner sees a
+# dead link for a page that is fine from a browser. Coverage is not lost, the
+# shields.io pypi/v badge in the README resolves against PyPI's API and the
+# widget job fails if it stops returning a real version.
 
 on:
   push:
@@ -41,6 +46,7 @@ jobs:
             --accept 200,206,999
             --exclude 'linkedin\.com'
             --exclude 'mailto:'
+            --exclude 'pypi\.org'
             "README.md"
           output: lychee/out.md
           fail: false
