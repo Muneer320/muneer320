@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:5865F2,100:BF91F3&height=200&section=header&text=Muneer%20Alam&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Systems%20%C2%B7%20AI%20Engineering%20%C2%B7%20Developer%20Tools&descAlignY=57&descSize=16" width="100%" alt="Muneer Alam. Backend Systems, AI Engineering, Developer Tools" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1800&color=70A5FD&center=true&vCenter=true&width=820&height=45&lines=77k-line+techfest+platform+running+in+production;A+182-test+Python+package+shipping+on+PyPI;Multi-agent+AI+pipelines+that+survive+provider+outages;Research-native+version+control+with+CRDT+sync" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1800&color=70A5FD&center=true&vCenter=true&width=820&height=45&lines=77k-line+techfest+platform+running+in+production;A+182-test+Python+package+shipping+on+PyPI;Multi-agent+AI+pipelines+that+survive+provider+outages;Research-native+version+control+with+CRDT+sync;189+commits+in+36+hours%2C+312+tests%2C+zero+invented+numbers" alt="What I build" />
 
 <br>
 
@@ -43,7 +43,12 @@
 
 Crop decision support for Indian farmers. Ask by **typing, voice, or photo**, in Hindi, Marathi, Punjabi, Telugu or English, also over **WhatsApp**. Day-by-day water plans in litres for *that* field, live mandi prices, field cost records.
 
-> **Unknown is never rendered as zero.** Every figure carries its source and read time. The system declines to recommend rather than guess.
+```
+189 commits in 36h   61 API operations   312 tests
+155 schemas          49 paths            5 languages
+```
+
+> **Unknown is never rendered as zero.** Not a slogan: `Measurement.value` is required *and* nullable with a `missing_reason`, blocked and unknown are separate reason codes, and a ponded paddy returns `null` depletion because it does not have any.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -253,7 +258,7 @@ Work merged into other people's repositories.
 <table>
 <tr>
 <td width="50%" valign="top"><b>Yugaantar 2026</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
-<td width="50%" valign="top"><b>AgriSense</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Still going after the hackathon ended. Deployed and in active development</sub></td>
+<td width="50%" valign="top"><b>AgriSense</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Finalist build shipped inside the sprint. Deployment and agronomist sign-off are what stand between it and real farmers</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><b>Hermes / HKV</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
@@ -286,7 +291,7 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,288</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
+<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,300</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
 <sub><i>Verified against the GitHub API on 23 Sep 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
