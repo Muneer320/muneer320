@@ -21,10 +21,10 @@
 
 <table>
 <tr>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>Backend</b><br><br><sub>FastAPI on Postgres and Redis,<br>with the schema work to match.<br><br><b>152</b> endpoints and <b>41</b> migrations<br>in one production system</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>AI Systems</b><br><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>Developer Tools</b><br><br><sub>Packages on PyPI with a frozen<br>public API, a deprecation policy,<br><b>182</b> tests, and contributors<br>I have never met</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>Shipped</b><br><br><sub>An event platform <b>2,000</b> people<br>walked through, two packages<br>strangers install, and <b>4</b> hackathons<br>I went home having won</sub></td>
+<td width="25%" align="center"><b>Backend</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>FastAPI on Postgres and Redis,<br>with the schema work to match.<br><br><b>152</b> endpoints and <b>41</b> migrations<br>in one production system</sub></td>
+<td width="25%" align="center"><b>AI Systems</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
+<td width="25%" align="center"><b>Developer Tools</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>Packages on PyPI with a frozen<br>public API, a deprecation policy,<br><b>182</b> tests, and contributors<br>I have never met</sub></td>
+<td width="25%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>An event platform <b>2,000</b> people<br>walked through, two packages<br>strangers install, and <b>4</b> hackathons<br>I went home having won</sub></td>
 </tr>
 </table>
 
@@ -193,12 +193,12 @@ Work merged into other people's repositories.
 
 <table>
 <tr>
-<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>4×</h3><sub><b>Hackathon<br>Winner</b></sub></td>
-<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>Finalist</h3><sub><b>HACK CORE 2026</b><br>IIT Ropar</sub></td>
-<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>Top 7</h3><sub><b>ProdX @ NAVERA '26</b><br>of 350+ teams</sub></td>
-<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>3rd</h3><sub><b>BlockTrain</b><br>Devfolio</sub></td>
-<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>Top 50</h3><sub><b>CodinGame</b><br>Clash of Code, global</sub></td>
-<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>2024</h3><sub><b>Intel Software<br>Innovator</b></sub></td>
+<td align="center" width="16.6%"><h3>4×</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="116" height="3" alt=""><br><sub><b>Hackathon<br>Winner</b></sub></td>
+<td align="center" width="16.6%"><h3>Finalist</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="116" height="3" alt=""><br><sub><b>HACK CORE 2026</b><br>IIT Ropar</sub></td>
+<td align="center" width="16.6%"><h3>Top 7</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="116" height="3" alt=""><br><sub><b>ProdX @ NAVERA '26</b><br>of 350+ teams</sub></td>
+<td align="center" width="16.6%"><h3>3rd</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="116" height="3" alt=""><br><sub><b>BlockTrain</b><br>Devfolio</sub></td>
+<td align="center" width="16.6%"><h3>Top 50</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="116" height="3" alt=""><br><sub><b>CodinGame</b><br>Clash of Code, global</sub></td>
+<td align="center" width="16.6%"><h3>2024</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="116" height="3" alt=""><br><sub><b>Intel Software<br>Innovator</b></sub></td>
 </tr>
 </table>
 
@@ -252,12 +252,12 @@ Work merged into other people's repositories.
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>Yugaantar 2026</b><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>AgriSense</b><br><sub>Still going after the hackathon ended. Deployed and in active development</sub></td>
+<td width="50%" valign="top"><b>Yugaantar 2026</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
+<td width="50%" valign="top"><b>AgriSense</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Still going after the hackathon ended. Deployed and in active development</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>Hermes / HKV</b><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>ParaPixel DigiServices</b><br><sub>Client platforms in production. Co-founded April 2025</sub></td>
+<td width="50%" valign="top"><b>Hermes / HKV</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
+<td width="50%" valign="top"><b>ParaPixel DigiServices</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Client platforms in production. Co-founded April 2025</sub></td>
 </tr>
 </table>
 
@@ -286,7 +286,7 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,286</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
+<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,288</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
 <sub><i>Verified against the GitHub API on 23 Sep 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
