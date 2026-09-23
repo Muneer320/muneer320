@@ -1,0 +1,43 @@
+name: Contribution pacman
+
+# Renders the contribution graph into this repo's own `pacman-output` branch, so
+# the README image is served from raw.githubusercontent.com. Nothing renders it
+# at request time, so it cannot rate-limit or 503 the way a third-party card can.
+#
+# The previous cron was "* */12 * * *", which fires every minute for a full hour,
+# twice a day. Corrected to twice daily on the hour.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:00 and 18:00 IST
+    - cron: "30 0,12 * * *"
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pacman
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Publish to the pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+          commit_message: "chore: refresh pacman contribution graph [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

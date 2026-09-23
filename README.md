@@ -1,371 +1,293 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=5865F2&center=true&vCenter=true&width=900&lines=creative+systems+engineer;backend+infrastructure+%C2%B7+AI+tooling+%C2%B7+controlled+chaos;building+ambitious+systems+and+weird+experiments;shipping+fast%2C+breaking+things%2C+fixing+them" />
-</p>
+<div align="center">
 
-<h1 align="center">Muneer Alam</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:5865F2,100:BF91F3&height=200&section=header&text=Muneer%20Alam&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Systems%20%C2%B7%20AI%20Engineering%20%C2%B7%20Developer%20Tools&descAlignY=57&descSize=16" width="100%" alt="Muneer Alam. Backend Systems, AI Engineering, Developer Tools" />
 
-<p align="center">
-  <b>creative systems engineer</b> · backend infra · distributed systems · AI tooling
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1800&color=70A5FD&center=true&vCenter=true&width=820&height=45&lines=77k-line+techfest+platform+running+in+production;A+182-test+Python+package+shipping+on+PyPI;Multi-agent+AI+pipelines+that+survive+provider+outages;Research-native+version+control+with+CRDT+sync" alt="What I build" />
 
-<p align="center">
-  <a href="https://github.com/muneer320">
-    <img src="https://img.shields.io/github/followers/muneer320?style=flat&label=followers&logo=github&color=5865F2" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=muneer320&style=flat&color=5865F2&label=profile+views" />
-  <a href="https://muneer320.tech">
-    <img src="https://img.shields.io/badge/portfolio-muneer320.tech-000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muneer320">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:muneer.alam320@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/repos-25+-5865F2?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/contributions-1.7k+-5865F2?style=flat" />
-  <img src="https://img.shields.io/badge/stars-50+-5865F2?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/lines-3.72M-5865F2?style=flat" />
-</p>
-
----
-
-```text
-$ whoami
-→ creative systems engineer from Bengaluru, India
-
-  backend systems  ·  infrastructure  ·  automation
-  AI tooling  ·  real-time platforms  ·  distributed systems
-  creative coding  ·  puzzle systems  ·  developer tooling
-  archive @ muneer406
-
-$ fun_facts
-→ Arch Linux + Hyprland daily driver
-→ ranked top 50 globally in Codingame Clash of Code
-→ co-founder @ ParaPixel DigiServices
-→ admin for 800+ member SST student community
-→ builds puzzle systems for fun like a psychopath
-
-$ philosophy
-→ ship fast, break things, fix them, iterate
-→ boring is bad
-```
-
-<p align="center">
-  <sub>open to interesting collaborations · co-founder at <a href="https://github.com/ParaPixel-DigiServices">ParaPixel DigiServices</a> · Bengaluru 🇮🇳<br>archived experiments at <a href="https://github.com/muneer406">@muneer406</a></sub>
-</p>
-
----
-
-## featured
-
-> ### [Ascent Dashboard](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com)
-> Production full-stack platform powering a large-scale college techfest. QR-based check-ins, AI-powered photo gallery (Mirage), gamified coins/sidequest economy, real-time leaderboards, team submissions, role-based admin panel.
->
-> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
->
-> 62k+ LOC · 32 services · 41 migrations · 24 admin tabs · production event infra
-
-> ### [Safedump](https://github.com/Muneer320/safedump) · [docs](https://github.com/Muneer320/safedump#readme) · [PyPI](https://pypi.org/project/safedump/)
-> Local-first crash diagnostics for Python. When your app crashes, captures every local variable, exception chain, and thread state — then saves it as a structured JSON file with automatic secret redaction. CLI viewer included. Zero cloud. Zero telemetry.
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-006DAD?style=flat&logo=pypi&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-FF6F00?style=flat&logo=python&logoColor=white)
->
-> 69 tests · 5 Python versions · 10 public API functions · MIT · 4 external contributors in week one
-
-> ### [RhinoBox](https://github.com/Muneer320/RhinoBox)
-> Intelligent multi-modal storage engine. Accepts any data through one API, auto-categorizes, deduplicates, and routes to optimal backend — PostgreSQL for relational, MongoDB for documents. 3-level caching, async job queues, full-text search.
->
-> ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
->
-> 30+ REST endpoints · 3.6M ops/sec cache · dual database routing
-
-> ### [Portfolio](https://github.com/Muneer320/Portfolio) · [live](https://muneer320.tech)
-> Interactive Linux-inspired terminal portfolio. Explore projects through a simulated shell environment with animated UI, command navigation, and experimental developer-focused interface.
->
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
----
-
-## selected work
-
-| Project | Description | Stack |
-|---|---|---|
-| [**safedump**](https://github.com/Muneer320/safedump) · [PyPI](https://pypi.org/project/safedump/) | Local-first crash diagnostics — auto redact secrets, CLI viewer | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
-| [**codelines**](https://github.com/Muneer320/codelines) · [PyPI](https://pypi.org/project/codelines/) | Parallel LOC counter — multi-threaded, git-aware, Rich terminal UI | `Python` `Rich` `ThreadPoolExecutor` `PyPI` |
-| [**Ascent Dashboard**](https://github.com/Muneer320/dashboard) · [live](https://ascent.scaler.com) | Full-stack techfest platform — QR, AI gallery, gamification, admin panel | `FastAPI` `React` `PostgreSQL` `Redis` `Supabase` `Docker` |
-| [**exHacker**](https://github.com/Muneer320/exHacker) | AI-powered product studio — idea to production blueprint in <30s with multi-model pipeline | `Next.js` `FastAPI` `Supabase` `DeepSeek` `GLM` `Vercel` |
-| [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Schema-aware storage engine — auto SQL/NoSQL routing, async pipelines | `Go` `PostgreSQL` `MongoDB` `Redis` `Docker` |
-| [**BOOP**](https://github.com/Muneer320/BOOP) · [web](https://github.com/Muneer320/BOOP-web) | Puzzle book generator — CLI evolved into full-stack web app, PDF pipelines | `Python` `FastAPI` `React` `PostgreSQL` `ReportLab` |
-| [**Vector**](https://github.com/Muneer320/Vector) | AI-powered interview platform — adaptive Q&A, 1000+ variants, serving 300+ students | `FastAPI` `PostgreSQL` `OpenAI` `React` `Next.js` |
-| [**Rinse**](https://github.com/Muneer320/Rinse) | Privacy-first gallery cleaner — Tinder-style swipe, 100% on-device, 60fps animations | `React Native` `Expo` `Reanimated` `Gesture Handler` |
-| [**Finity**](https://github.com/Muneer320/finity) · [live](https://finity-rust.vercel.app) | AI-powered fintech gamification — paper trading, AI coach, micro-courses | `FastAPI` `React` `OpenAI` `Gemini` `TailwindCSS` |
-| [**Oratio**](https://github.com/Muneer320/oratio) | Real-time AI debate arena — WebSocket rooms, AI judge scoring via LCR model | `FastAPI` `React` `WebSockets` `Gemini` `Docker` |
-| [**teams-clone**](https://github.com/Muneer320/teams-clone) | Microsoft Teams RL environment — train AI agents on collaboration tasks with Gym-like API | `Python` `React` `WebSockets` `Docker` `Jupyter` |
-| [**GitGuild**](https://github.com/Muneer320/GitGuild) | Decentralized PR prediction markets — bonding curve economics on GitHub | `Next.js` `TypeScript` `Solidity` `Wagmi` `Hardhat` |
-| [**CPStats API**](https://github.com/Muneer320/CPStats-API) · [live](https://muneer320-cpstats-api.hf.space) | Aggregated competitive programming ratings from 4 platforms, cached | `FastAPI` `Docker` `LRU Cache` `API Auth` |
-| [**SST Lounge Bot**](https://github.com/Muneer320/SST-Lounge-Bot) | Discord bot for 800+ member community — contest tracking, auto roles, self-moderation | `Python` `discord.py` `SQLite` `clist.by API` |
-| [**Surjit Hockey**](https://github.com/ParaPixel-DigiServices/surjit-hockey) · [live](https://surjit-hockey.vercel.app) | Tournament management platform for premier Indian hockey tournament | `FastAPI` `React` `MySQL` `TailwindCSS` |
-| [**Sandhya Foods**](https://github.com/ParaPixel-DigiServices/sandhya-foods) · [live](https://sandhya-foods.vercel.app) | E-commerce platform with Razorpay payments, Supabase, WhatsApp notifications | `Next.js` `TypeScript` `Supabase` `Razorpay` `TailwindCSS` |
 <br>
 
-<sub>**95+ repositories on GitHub** — just the curated ones. [See everything →](https://github.com/Muneer320?tab=repositories)</sub>
+<a href="https://muneer320.tech"><img src="https://img.shields.io/badge/Portfolio-muneer320.tech-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/muneer320"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:muneer.alam320@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://pypi.org/user/muneer320/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+
+</div>
 
 ---
 
-## tech stack
+<div align="center">
 
-**languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
-</p>
+**CS student at Scaler School of Technology (Batch 2029) & BITS Pilani (B.Sc. CS)** · Bengaluru, India
+**Co-founder** at [ParaPixel DigiServices](https://parapixel.net)
 
-**frameworks & runtimes**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white" />
-</p>
+</div>
 
-**databases & storage**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-</p>
-
-**infrastructure & tooling**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modal-1D1D1D?style=flat" />
-</p>
-
-**AI / LLMs**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat" />
-  <img src="https://img.shields.io/badge/DeepSeek-4F6AF0?style=flat" />
-  <img src="https://img.shields.io/badge/GLM-8B5CF6?style=flat" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=flat" />
-  <img src="https://img.shields.io/badge/Llama.cpp-00A86B?style=flat" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-</p>
-
-**environment**
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=python&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="25%" align="center"><b>Backend</b><br><br><sub>FastAPI on Postgres and Redis,<br>with the schema work to match.<br><br><b>152</b> endpoints and <b>41</b> migrations<br>in one production system</sub></td>
+<td width="25%" align="center"><b>AI Systems</b><br><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
+<td width="25%" align="center"><b>Developer Tools</b><br><br><sub>Packages on PyPI with a frozen<br>public API, a deprecation policy,<br><b>182</b> tests, and contributors<br>I have never met</sub></td>
+<td width="25%" align="center"><b>Shipped</b><br><br><sub>An event platform <b>2,000</b> people<br>walked through, two packages<br>strangers install, and <b>4</b> hackathons<br>I went home having won</sub></td>
+</tr>
+</table>
 
 ---
 
-## currently building
+## Selected work
 
-- **Reflect** — personal finance spending insights with Flutter, Riverpod, and Supabase
-- **exHacker** — AI product studio: idea → production blueprint in under 30 seconds
-- **Hermes Agent ecosystem** — AI agents with browser & tool control
-- **Full-stack client platforms** via ParaPixel DigiServices
-- **Developer tooling** — PyPI packages (safedump, codelines), CLI utilities, automation
-- **Community infrastructure** — SST Lounge Bot & Discord automation for 800+ member ecosystem
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [AgriSense](https://github.com/annam-iitrpr/TeamUnderdawgs-Agrisense)
 
-## developer telemetry
+<img src="https://img.shields.io/badge/HACK_CORE_2026-Finalist-FFD700?style=flat-square&logoColor=black" /> 
+<br><sub>IIT Ropar · ANNAM.AI × Syngenta × Google</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muneer320&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=muneer320&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muneer320&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
-</p>
+Crop decision support for Indian farmers. Ask by **typing, voice, or photo**, in Hindi, Marathi, Punjabi, Telugu or English, also over **WhatsApp**. Day-by-day water plans in litres for *that* field, live mandi prices, field cost records.
 
----
+> **Unknown is never rendered as zero.** Every figure carries its source and read time. The system declines to recommend rather than guess.
 
-<details>
-<summary><b>🏆 community / hackathons / open source</b></summary>
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-  <a href="https://holopin.io/@muneer320">
-    <img src="https://holopin.me/muneer320" />
-  </a>
-  <br><br>
-  <a href="https://dev.to/muneer320">
-    <img src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/badge/badge_image/470/GHco-26-04.png" width="120" height="120" alt="GitHub Copilot Finish-Up-A-Thon Challenge Completion" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-### community & ecosystem
+### [Ascent Dashboard](https://github.com/Muneer320/dashboard)
 
-- admin for SST student community ecosystem with 800+ members
-- built **SST Lounge Bot** — Discord automation, contest tracking, moderation systems
-- hackathon participant & builder
-- contributor to open-source tooling
-- built systems for real-world events and communities
+<img src="https://img.shields.io/badge/Production-2%2C000%2B_attendees-3FB950?style=flat-square" /> 
+<br><sub>built over a term, load-bearing on event day</sub>
 
-### notable
+Operational backbone of a college techfest. QR check-in, participant sync, role-based admin tiers, AI-tagged photo gallery, gamified coins economy, real-time leaderboards, hackathon submissions and more.
 
-- ranked under top 50 globally in Codingame Clash of Code
-- co-founder @ ParaPixel DigiServices
-- built production event-management systems
-- active in backend infra & AI experimentation
-
-</details>
-
----
-
-<details>
-<summary><b>⚡ coding activity</b></summary>
-<br>
-
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2012%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.41%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 410.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,798 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-🌆 Daytime                878 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌃 Evening                1024 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌙 Night                  1595 commits        ███████████░░░░░░░░░░░░░░   42.24 % 
 ```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   566 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Tuesday                  531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Friday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Saturday                 598 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Sunday                   574 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+77,000+ LOC     152 API endpoints    299 commits
+41 migrations   37 DB tables         31 services
 ```
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-📊 **This Week I Spent My Time On** 
+</td>
+</tr>
 
-```text
-💬 Programming Languages: 
-Markdown                 5 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.92 % 
-Other                    2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Python                   2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-HTML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+<tr>
+<td width="50%" valign="top">
 
-💻 Operating System: 
-Windows                  10 hrs 44 mins      █████████████████████░░░░   85.15 % 
-Linux                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-```
+### [safedump](https://github.com/Muneer320/safedump)
 
-🤖 **AI Coding This Week** 
+<a href="https://pypi.org/project/safedump/"><img src="https://img.shields.io/pypi/v/safedump?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9" /></a> <img src="https://img.shields.io/github/stars/Muneer320/safedump?style=flat-square&color=5865F2" /> <img src="https://img.shields.io/badge/license-MIT-97CA00?style=flat-square" />
 
-```text
-⏱ AI Coding Time: 10 hrs 35 mins (83.89%)
+Local-first crash diagnostics for Python. Captures the full exception chain, locals at every frame, and thread state, then writes a structured report with **automatic secret redaction**. CLI viewer and HTML renderer included. No cloud, no telemetry.
 
-✍️ 31,816 lines written by AI, 376 lines written by hand (98.83% AI-written)
+Shipped v1.0 → v2.0 with a frozen public API, formal deprecation policy, and a migration framework. Released from GitHub Actions via **Trusted Publishing (OIDC)**.
 
-🔤 4,810,866 Input Tokens, 819,801 Output Tokens
-
-💵 $137.82 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 58 AI Prompts
-
-Opus                     31,855 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.83% of written lines came from AI
-📚 Verbose Prompter — average 3,369 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.05% of changed lines were hand-edited
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   26 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
-TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-```
-
-
-
-
- Last Updated on 22/09/2026 21:36:05 UTC
-<!--END_SECTION:waka-->
-
-</details>
-
----
-
-<details>
-<summary><b>🧪 random terminal nonsense</b></summary>
-<br>
+<sub>**182 tests** · CI on Python 3.9–3.13 · MIT · pull requests from contributors I have never met</sub>
 
 ```bash
-$ sudo rm -rf bugs
-[sudo] password for muneer:
-→ permission denied
-
-$ git commit -m "temporary fix"
-→ 7 months ago
-
-$ arch
-→ btw yes
+pip install safedump
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### [exHacker](https://github.com/Muneer320/exHacker)
+
+<img src="https://img.shields.io/badge/HackArena_2.0-Winner-FFD700?style=flat-square&logoColor=black" /> <a href="https://exhacker-frontend.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+AI co-pilot for hackathon teams. Compresses the first **6–10 hours** of a hackathon into **10–15 minutes**.
+
+A numbered specialist pipeline on LangGraph:
+
+`challenge intel → research → competitor analysis → decision journal → idea generation → solution architect → docs`
+
+An LLM fallback chain keeps a run alive when a single provider goes down.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [ReGit](https://github.com/Muneer320/ReGit)
+
+<img src="https://img.shields.io/badge/Gradient_Rush-13h_build-BF91F3?style=flat-square" /> <a href="https://regit.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+Git assumes line-oriented text. Research artifacts are not. ReGit rebuilds version control around them:
+
+- Content-addressed **immutable artifacts**
+- **Semantic per-type diffing**, three-way prose merge
+- **CRDT** concurrent editing
+- Typed provenance: `claim → commit → artifact → source`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [BCD](https://github.com/Muneer320/BCD)
+
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" /> <a href="https://bcd-dev.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+Tracks **visual change across photos taken over time** using an ordinary phone camera rather than clinical imaging. It surfaces differences between sessions, it does not diagnose, and it is not a medical device.
+
+MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Sentry monitoring. Self-hosted on an Azure VM over HTTPS via a Tailscale funnel.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/CLICK%20TO%20EXPAND-More%20projects%20%26%20open%20source%20contributions-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Click to expand: more projects and open source contributions" />
+</summary>
+
+<br>
+
+### More of my projects
+
+<div align="left">
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Multi-modal storage engine. One API, auto-categorisation, dedup, PostgreSQL/MongoDB routing, three-level caching | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [**GitGuild**](https://github.com/Muneer320/GitGuild) | Prediction markets for GitHub PRs with bonding-curve pricing. **3rd place, BlockTrain** | ![Next.js](https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white) ![Solidity](https://img.shields.io/badge/-363636?style=flat-square&logo=solidity&logoColor=white) |
+| [**BOOP**](https://github.com/Muneer320/BOOP) | Puzzle-book generation pipeline. A CLI that grew into a [web app](https://github.com/Muneer320/BOOP-web); my most-starred repo | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| [**teams-clone**](https://github.com/Muneer320/teams-clone) | Microsoft Teams clone built as a reinforcement-learning environment with a Gym-style API | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**Oratio**](https://github.com/Muneer320/Oratio) | Real-time AI debate arena. WebSocket rooms with LLM judge scoring | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**codelines**](https://github.com/Muneer320/codelines) | Parallel lines-of-code counter, git-aware, Rich TUI. [On PyPI](https://pypi.org/project/codelines/) | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Rinse**](https://github.com/Muneer320/Rinse) | Swipe-to-clean gallery app, fully on-device | ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**Finity**](https://github.com/Muneer320/finity) | Fintech gamification. Paper trading simulator, AI coach, micro-courses | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**CPStats API**](https://github.com/Muneer320/CPStats-API) | Aggregated competitive-programming ratings across 4 platforms, cached | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+### Open source contributions
+
+Work merged into other people's repositories.
+
+<div align="left">
+
+| Repository | What I contributed | |
+|---|---|---|
+| [**DFanso/commit-msg**](https://github.com/DFanso/commit-msg) | **6 merged PRs.** Added a unified LLM provider interface, a Groq provider, secret scrubbing so credentials never reach the model, an interactive review flow, and test coverage for git change detection | <img src="https://img.shields.io/github/stars/DFanso/commit-msg?style=flat-square&color=5865F2&label=" /> ![Go](https://img.shields.io/badge/-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**Women-Devs-SG/bibsnbub**](https://github.com/Women-Devs-SG/bibsnbub) | Fixed search-bar caret auto-selection swallowing the first character typed | <img src="https://img.shields.io/github/stars/Women-Devs-SG/bibsnbub?style=flat-square&color=5865F2&label=" /> ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Reinforce-SST/Reinforce_Club-SST**](https://github.com/Reinforce-SST/Reinforce_Club-SST) | Contributed a gesture-controlled stickman hook script to the college RL club repo | <img src="https://img.shields.io/github/stars/Reinforce-SST/Reinforce_Club-SST?style=flat-square&color=5865F2&label=" /> ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**aavvvacado/Hand-sign-Cricket**](https://github.com/aavvvacado/Hand-sign-Cricket) | Built the AI opponent: difficulty levels and pattern learning against the player | <img src="https://img.shields.io/github/stars/aavvvacado/Hand-sign-Cricket?style=flat-square&color=5865F2&label=" /> ![Dart](https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| [**thewildofficial/MammothBox**](https://github.com/thewildofficial/MammothBox) | **3 merged PRs.** Restructured it into a monorepo and built the JSON processing system with SQL/JSONB decisioning | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Ascent-2026/ascent**](https://github.com/Ascent-2026/ascent) | **9 merged PRs** on the fest's public site: retro TV shell, modular controls, mobile navigation, leaderboard polish | ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+
+</div>
 
 </details>
 
+</div>
+
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
+## Track record
+
+<table>
+<tr>
+<td align="center" width="16.6%"><h3>4×</h3><sub><b>Hackathon<br>Winner</b></sub></td>
+<td align="center" width="16.6%"><h3>Finalist</h3><sub><b>HACK CORE 2026</b><br>IIT Ropar</sub></td>
+<td align="center" width="16.6%"><h3>Top 7</h3><sub><b>ProdX @ NAVERA '26</b><br>of 350+ teams</sub></td>
+<td align="center" width="16.6%"><h3>3rd</h3><sub><b>BlockTrain</b><br>Devfolio</sub></td>
+<td align="center" width="16.6%"><h3>Top 50</h3><sub><b>CodinGame</b><br>Clash of Code, global</sub></td>
+<td align="center" width="16.6%"><h3>2024</h3><sub><b>Intel Software<br>Innovator</b></sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>Organizing crew at <b>Meta PyTorch OpenENV</b>, India's largest GenAI/RL hackathon</sub><br>
+<sub>Winner at <b>Smart Delhi Hackathon</b> · Two packages published on <b>PyPI</b></sub>
+
+</div>
+
+---
+
+## Stack
+
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,dart,lua,solidity,bash&theme=dark" alt="Python, Go, TypeScript, JavaScript, Dart, Lua, Solidity, Bash" />
+
+**Backend & Data**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,redis,mongodb,supabase,sqlite&theme=dark" alt="FastAPI, Flask, Node.js, Express, PostgreSQL, Redis, MongoDB, Supabase, SQLite" />
+<br><sub>SQLAlchemy · Alembic · Pydantic · WebSockets · PLpgSQL</sub>
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,astro,flutter&theme=dark" alt="React, Next.js, Tailwind, Vite, Astro, Flutter" />
+<br><sub>React Native · shadcn/ui · Framer Motion</sub>
+
+**AI / ML**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda" />
+<br><sub>LangGraph · ONNX Runtime · Hugging Face · NumPy · Pandas · llama.cpp · multi-provider LLM pipelines (OpenAI, Gemini, Claude, DeepSeek, Groq)</sub>
+
+**DevOps & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,aws,azure,gcp,postman&theme=dark" alt="Docker, GitHub Actions, Nginx, Vercel, Azure, Google Cloud, Postman" />
+<br><sub>Supabase · Tailscale · Modal · Hugging Face Spaces · Sentry · uv</sub>
+
+**Environment**<br>
+<img src="https://skillicons.dev/icons?i=arch,linux,windows,neovim,vscode,git&theme=dark" alt="Arch Linux, Linux, Windows, Neovim, VS Code, Git" />
+<br><sub>Hyprland · tmux · PowerShell</sub>
+
+</div>
+
+---
+
+## Currently
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>Yugaantar 2026</b><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
+<td width="50%" valign="top"><b>AgriSense</b><br><sub>Still going after the hackathon ended. Deployed and in active development</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b>Hermes / HKV</b><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
+<td width="50%" valign="top"><b>ParaPixel DigiServices</b><br><sub>Client platforms in production. Co-founded April 2025</sub></td>
+</tr>
+</table>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muneer320&theme=tokyonight" width="100%" alt="Profile summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muneer320&theme=tokyonight" width="32%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muneer320&theme=tokyonight" width="32%" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muneer320&theme=tokyonight" width="32%" alt="Top languages by commit" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muneer320&theme=tokyonight&utcOffset=5.5" width="48%" alt="Commits by hour of day" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Muneer320/muneer320/pacman-output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+
+<!--STATS:START-->
+
+<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,284</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
+<sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
+<sub><i>Verified against the GitHub API on 23 Sep 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
+
+<!--STATS:END-->
+
+</div>
+
+<div align="center">
+<sub>I moved the older experiments to <a href="https://github.com/muneer406">@muneer406</a> and deleted most of the rest. What is left here is what I still stand behind.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF91F3,55:5865F2,100:0D1117&height=120&section=footer" width="100%" alt="" />
