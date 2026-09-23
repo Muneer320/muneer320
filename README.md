@@ -158,6 +158,7 @@ MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Se
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**MeraWard**](https://github.com/amritkang165/meraward) | Civic accountability for Delhi's 250 municipal wards. A dropped pin resolves your ward and councillor; voice, photo or text becomes a formal complaint drafted in Hindi and English, routed to the right office and tracked on a public neglect index. Two days at First Commit (WeMakeDevs x AWS). **23 of the 32 commits are mine** <br><sub>[live](https://main.d1s6q0cvldi6dz.amplifyapp.com) &middot; repo lives on a teammate's account</sub> | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Multi-modal storage engine. One API, auto-categorisation, dedup, PostgreSQL/MongoDB routing, three-level caching | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | [**GitGuild**](https://github.com/Muneer320/GitGuild) | Prediction markets for GitHub PRs with bonding-curve pricing. **3rd place, BlockTrain** | ![Next.js](https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white) ![Solidity](https://img.shields.io/badge/-363636?style=flat-square&logo=solidity&logoColor=white) |
 | [**iffy.ai**](https://github.com/muneer406/iffy-ai) | "What if?" scenario explorer: ripple effects, trade-offs, timelines and stakeholder debate across society, business and tech. **Top 7 of 350+ teams at ProdX @ NAVERA '26** <br><sub>archived on my second account</sub> | ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
@@ -291,7 +292,7 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,300</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
+<sub><b>29</b> public repos · <b>60</b> stars · <b>13</b> forks · <b>2,307</b> contributions · <b>79</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
 <sub><i>Verified against the GitHub API on 23 Sep 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
