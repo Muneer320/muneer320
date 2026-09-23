@@ -1,0 +1,103 @@
+name: README health
+
+# Two failure modes this catches:
+#   1. Dead links: repos renamed or deleted, demos taken down, domains expired.
+#   2. Dead widgets: stats cards that answer 200 with an "error" SVG body.
+# The second is invisible to an ordinary link checker, which is how a broken
+# stats card can sit on a profile for months.
+
+on:
+  push:
+    branches: [main]
+    paths: ["**.md", ".github/scripts/**", ".github/workflows/health.yml"]
+  pull_request:
+    paths: ["**.md", ".github/scripts/**"]
+  schedule:
+    # Weekly, Monday 06:30 IST
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    name: Dead links
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --retry-wait-time 5
+            --timeout 25
+            --accept 200,206,999
+            --exclude 'linkedin\.com'
+            --exclude 'mailto:'
+            "README.md"
+          output: lychee/out.md
+          fail: false
+
+      - name: Report
+        if: steps.lychee.outputs.exit_code != 0
+        run: |
+          cat lychee/out.md
+          echo "::error::Broken links detected. See the summary above."
+          exit 1
+
+  widgets:
+    name: Widget rendering
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Verify every remote image actually renders
+        run: python .github/scripts/check_widgets.py
+
+  notify:
+    name: Open an issue if the weekly run failed
+    needs: [links, widgets]
+    if: failure() && github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const url = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const title = 'README health check failed';
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'readme-health',
+            });
+            const body = `The weekly README health check failed.\n\nRun: ${url}\n\n` +
+              `This usually means a link rotted or a stats widget started serving an error image.`;
+            if (existing.data.length) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.data[0].number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['readme-health'],
+              });
+            }
