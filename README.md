@@ -139,13 +139,10 @@ MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Se
 
 <div align="center">
 
+### More projects &amp; open source contributions
 <details>
 <summary>
-
-### More projects &amp; open source contributions
-
-<sub><b>Click to expand</b> &nbsp;·&nbsp; 10 more builds and 6 repositories I have merged work into</sub>
-
+<kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C L I C K &nbsp; T O &nbsp; E X P A N D</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
 </summary>
 
 <br>
@@ -289,7 +286,7 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,285</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
+<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,286</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
 <sub><i>Verified against the GitHub API on 23 Sep 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
