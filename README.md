@@ -14,17 +14,17 @@
 
 <div align="center">
 
-**CS student at Scaler School of Technology (Batch 2029) & BITS Pilani (B.Sc. CS)** · Bengaluru, India
-**Co-founder** at [ParaPixel DigiServices](https://parapixel.net)
+<b>CS student at Scaler School of Technology (Batch 2029) &amp; BITS Pilani (B.Sc. CS)</b> · Bengaluru, India<br>
+<b>Co-founder</b> at <a href="https://parapixel.net">ParaPixel DigiServices</a>
 
 </div>
 
 <table>
 <tr>
-<td width="25%" align="center"><b>Backend</b><br><br><sub>FastAPI on Postgres and Redis,<br>with the schema work to match.<br><br><b>152</b> endpoints and <b>41</b> migrations<br>in one production system</sub></td>
-<td width="25%" align="center"><b>AI Systems</b><br><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
-<td width="25%" align="center"><b>Developer Tools</b><br><br><sub>Packages on PyPI with a frozen<br>public API, a deprecation policy,<br><b>182</b> tests, and contributors<br>I have never met</sub></td>
-<td width="25%" align="center"><b>Shipped</b><br><br><sub>An event platform <b>2,000</b> people<br>walked through, two packages<br>strangers install, and <b>4</b> hackathons<br>I went home having won</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>Backend</b><br><br><sub>FastAPI on Postgres and Redis,<br>with the schema work to match.<br><br><b>152</b> endpoints and <b>41</b> migrations<br>in one production system</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>AI Systems</b><br><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>Developer Tools</b><br><br><sub>Packages on PyPI with a frozen<br>public API, a deprecation policy,<br><b>182</b> tests, and contributors<br>I have never met</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="190" height="1" alt=""><br><b>Shipped</b><br><br><sub>An event platform <b>2,000</b> people<br>walked through, two packages<br>strangers install, and <b>4</b> hackathons<br>I went home having won</sub></td>
 </tr>
 </table>
 
@@ -141,7 +141,11 @@ MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Se
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/CLICK%20TO%20EXPAND-More%20projects%20%26%20open%20source%20contributions-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Click to expand: more projects and open source contributions" />
+
+### More projects &amp; open source contributions
+
+<sub><b>Click to expand</b> &nbsp;·&nbsp; 10 more builds and 6 repositories I have merged work into</sub>
+
 </summary>
 
 <br>
@@ -154,6 +158,7 @@ MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Se
 |---|---|---|
 | [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Multi-modal storage engine. One API, auto-categorisation, dedup, PostgreSQL/MongoDB routing, three-level caching | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | [**GitGuild**](https://github.com/Muneer320/GitGuild) | Prediction markets for GitHub PRs with bonding-curve pricing. **3rd place, BlockTrain** | ![Next.js](https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white) ![Solidity](https://img.shields.io/badge/-363636?style=flat-square&logo=solidity&logoColor=white) |
+| [**iffy.ai**](https://github.com/muneer406/iffy-ai) | "What if?" scenario explorer: ripple effects, trade-offs, timelines and stakeholder debate across society, business and tech. **Top 7 of 350+ teams at ProdX @ NAVERA '26** <br><sub>archived on my second account</sub> | ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**BOOP**](https://github.com/Muneer320/BOOP) | Puzzle-book generation pipeline. A CLI that grew into a [web app](https://github.com/Muneer320/BOOP-web); my most-starred repo | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | [**teams-clone**](https://github.com/Muneer320/teams-clone) | Microsoft Teams clone built as a reinforcement-learning environment with a Gym-style API | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [**Oratio**](https://github.com/Muneer320/Oratio) | Real-time AI debate arena. WebSocket rooms with LLM judge scoring | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
@@ -191,12 +196,12 @@ Work merged into other people's repositories.
 
 <table>
 <tr>
-<td align="center" width="16.6%"><h3>4×</h3><sub><b>Hackathon<br>Winner</b></sub></td>
-<td align="center" width="16.6%"><h3>Finalist</h3><sub><b>HACK CORE 2026</b><br>IIT Ropar</sub></td>
-<td align="center" width="16.6%"><h3>Top 7</h3><sub><b>ProdX @ NAVERA '26</b><br>of 350+ teams</sub></td>
-<td align="center" width="16.6%"><h3>3rd</h3><sub><b>BlockTrain</b><br>Devfolio</sub></td>
-<td align="center" width="16.6%"><h3>Top 50</h3><sub><b>CodinGame</b><br>Clash of Code, global</sub></td>
-<td align="center" width="16.6%"><h3>2024</h3><sub><b>Intel Software<br>Innovator</b></sub></td>
+<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>4×</h3><sub><b>Hackathon<br>Winner</b></sub></td>
+<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>Finalist</h3><sub><b>HACK CORE 2026</b><br>IIT Ropar</sub></td>
+<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>Top 7</h3><sub><b>ProdX @ NAVERA '26</b><br>of 350+ teams</sub></td>
+<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>3rd</h3><sub><b>BlockTrain</b><br>Devfolio</sub></td>
+<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>Top 50</h3><sub><b>CodinGame</b><br>Clash of Code, global</sub></td>
+<td align="center" width="16.6%"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="116" height="1" alt=""><br><h3>2024</h3><sub><b>Intel Software<br>Innovator</b></sub></td>
 </tr>
 </table>
 
@@ -213,26 +218,32 @@ Work merged into other people's repositories.
 
 <div align="center">
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,dart,lua,solidity,bash&theme=dark" alt="Python, Go, TypeScript, JavaScript, Dart, Lua, Solidity, Bash" />
+### Languages
 
-**Backend & Data**<br>
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,dart,lua,solidity,bash&theme=dark" alt="Python, TypeScript, JavaScript, Go, Dart, Lua, Solidity, Bash" />
+
+### Backend & Data
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,redis,mongodb,supabase,sqlite&theme=dark" alt="FastAPI, Flask, Node.js, Express, PostgreSQL, Redis, MongoDB, Supabase, SQLite" />
 <br><sub>SQLAlchemy · Alembic · Pydantic · WebSockets · PLpgSQL</sub>
 
-**Frontend**<br>
+### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,astro,flutter&theme=dark" alt="React, Next.js, Tailwind, Vite, Astro, Flutter" />
 <br><sub>React Native · shadcn/ui · Framer Motion</sub>
 
-**AI / ML**<br>
+### AI / ML
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda" />
 <br><sub>LangGraph · ONNX Runtime · Hugging Face · NumPy · Pandas · llama.cpp · multi-provider LLM pipelines (OpenAI, Gemini, Claude, DeepSeek, Groq)</sub>
 
-**DevOps & Cloud**<br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,aws,azure,gcp,postman&theme=dark" alt="Docker, GitHub Actions, Nginx, Vercel, Azure, Google Cloud, Postman" />
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,aws,azure,gcp,postman&theme=dark" alt="Docker, GitHub Actions, Nginx, Vercel, AWS, Azure, Google Cloud, Postman" />
 <br><sub>Supabase · Tailscale · Modal · Hugging Face Spaces · Sentry · uv</sub>
 
-**Environment**<br>
+### Environment
+
 <img src="https://skillicons.dev/icons?i=arch,linux,windows,neovim,vscode,git&theme=dark" alt="Arch Linux, Linux, Windows, Neovim, VS Code, Git" />
 <br><sub>Hyprland · tmux · PowerShell</sub>
 
@@ -244,12 +255,12 @@ Work merged into other people's repositories.
 
 <table>
 <tr>
-<td width="50%" valign="top"><b>Yugaantar 2026</b><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
-<td width="50%" valign="top"><b>AgriSense</b><br><sub>Still going after the hackathon ended. Deployed and in active development</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>Yugaantar 2026</b><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>AgriSense</b><br><sub>Still going after the hackathon ended. Deployed and in active development</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><b>Hermes / HKV</b><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
-<td width="50%" valign="top"><b>ParaPixel DigiServices</b><br><sub>Client platforms in production. Co-founded April 2025</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>Hermes / HKV</b><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/spacer.png" width="400" height="1" alt=""><br><b>ParaPixel DigiServices</b><br><sub>Client platforms in production. Co-founded April 2025</sub></td>
 </tr>
 </table>
 
@@ -261,9 +272,9 @@ Work merged into other people's repositories.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muneer320&theme=tokyonight" width="100%" alt="Profile summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muneer320&theme=tokyonight" width="32%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muneer320&theme=tokyonight" width="33%" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muneer320&theme=tokyonight" width="32%" alt="Top languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muneer320&theme=tokyonight" width="32%" alt="Top languages by commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muneer320&theme=tokyonight" width="33%" alt="Top languages by commit" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muneer320&theme=tokyonight&utcOffset=5.5" width="48%" alt="Commits by hour of day" />
 
@@ -278,7 +289,7 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,284</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
+<sub><b>29</b> public repos · <b>57</b> stars · <b>13</b> forks · <b>2,285</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
 <sub><i>Verified against the GitHub API on 23 Sep 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
