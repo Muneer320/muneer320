@@ -292,9 +292,9 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>63</b> stars · <b>13</b> forks · <b>2,323</b> contributions · <b>79</b> PRs opened (12 mo)</sub><br>
-<sub>By bytes: JavaScript 46% · Python 26% · TypeScript 10% · Go 9% · CSS 4% · HTML 3%</sub><br>
-<sub><i>Verified against the GitHub API on 01 Oct 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
+<sub><b>27</b> public repos · <b>60</b> stars · <b>13</b> forks · <b>2,401</b> contributions · <b>79</b> PRs opened (12 mo)</sub><br>
+<sub>By bytes: JavaScript 48% · Python 20% · TypeScript 13% · Go 12% · CSS 4% · HTML 1%</sub><br>
+<sub><i>Verified against the GitHub API on 02 Oct 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
 <!--STATS:END-->
 
