@@ -21,14 +21,14 @@ I build backend systems, developer tools and applied AI projects.<br>
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" align="center"><b>Backend</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>FastAPI, Postgres and Redis.<br>Data models, migrations,<br>authentication and the operational<br>work around an API</sub></td>
-<td width="50%" align="center"><b>AI Systems</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
+<td width="50%" align="center"><b>Backend</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>FastAPI, Postgres and Redis.<br>Data models, migrations,<br>authentication and the operational<br>work around an API</sub></td>
+<td width="50%" align="center"><b>AI Systems</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><b>Developer Tools</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>Python packages on PyPI,<br>a native Rust audio daemon,<br>release automation and<br>documented public APIs</sub></td>
-<td width="50%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>Published packages, Linux releases,<br>and team hackathon projects.<br>Runnable local demos with<br>their limits made explicit</sub></td>
+<td width="50%" align="center"><b>Developer Tools</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Python packages on PyPI,<br>a native Rust audio daemon,<br>release automation and<br>documented public APIs</sub></td>
+<td width="50%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Published packages, Linux releases,<br>and team hackathon projects.<br>Runnable local demos with<br>their limits made explicit</sub></td>
 </tr>
 </table>
 
