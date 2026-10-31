@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:5865F2,100:BF91F3&height=200&section=header&text=Muneer%20Alam&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Systems%20%C2%B7%20AI%20Engineering%20%C2%B7%20Developer%20Tools&descAlignY=57&descSize=16" width="100%" alt="Muneer Alam. Backend Systems, AI Engineering, Developer Tools" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1800&color=70A5FD&center=true&vCenter=true&width=820&height=45&lines=77k-line+techfest+platform+running+in+production;A+182-test+Python+package+shipping+on+PyPI;Multi-agent+AI+pipelines+that+survive+provider+outages;Research-native+version+control+with+CRDT+sync;189+commits+in+36+hours%2C+312+tests%2C+zero+invented+numbers" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1800&color=70A5FD&center=true&vCenter=true&width=820&height=45&lines=Local-first+Python+tools+published+on+PyPI;Native+keyboard+audio+in+Rust;Research+workspaces+with+versioned+artifacts;AI+prototypes+with+explicit+uncertainty" alt="What I build" />
 
 <br>
 
-<a href="https://muneer320.tech"><img src="https://img.shields.io/badge/Portfolio-muneer320.tech-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/muneer320"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:muneer.alam320@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://pypi.org/user/muneer320/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+<a href="https://muneer320.tech"><img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/muneer320"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:muneer.alam320@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://pypi.org/user/muneer320/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
 
 </div>
 
@@ -15,16 +15,20 @@
 <div align="center">
 
 <b>CS student at Scaler School of Technology (Batch 2029) &amp; BITS Pilani (B.Sc. CS)</b> · Bengaluru, India<br>
-<b>Co-founder</b> at <a href="https://parapixel.net">ParaPixel DigiServices</a>
+<b>Co-founder</b> at <a href="https://parapixel.net">ParaPixel DigiServices</a><br><br>
+I build backend systems, developer tools and applied AI projects.<br>
+<a href="https://muneer320.tech">Explore the portfolio</a> · <a href="https://muneer320.tech/home/muneer/Documents/CV.pdf">Read my résumé</a>
 
 </div>
 
 <table>
 <tr>
-<td width="25%" align="center"><b>Backend</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>FastAPI on Postgres and Redis,<br>with the schema work to match.<br><br><b>152</b> endpoints and <b>41</b> migrations<br>in one production system</sub></td>
-<td width="25%" align="center"><b>AI Systems</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
-<td width="25%" align="center"><b>Developer Tools</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>Packages on PyPI with a frozen<br>public API, a deprecation policy,<br><b>182</b> tests, and contributors<br>I have never met</sub></td>
-<td width="25%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>An event platform <b>2,000</b> people<br>walked through, two packages<br>strangers install, and <b>4</b> hackathons<br>I went home having won</sub></td>
+<td width="50%" align="center"><b>Backend</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>FastAPI, Postgres and Redis.<br>Data models, migrations,<br>authentication and the operational<br>work around an API</sub></td>
+<td width="50%" align="center"><b>AI Systems</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>LangGraph multi-agent pipelines,<br>ONNX inference, and fallback<br>chains that keep a run alive<br>when a provider goes down</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><b>Developer Tools</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>Python packages on PyPI,<br>a native Rust audio daemon,<br>release automation and<br>documented public APIs</sub></td>
+<td width="50%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="190" height="3" alt=""><br><sub>Published packages, Linux releases,<br>and team hackathon projects.<br>Runnable local demos with<br>their limits made explicit</sub></td>
 </tr>
 </table>
 
@@ -57,15 +61,12 @@ Crop decision support for Indian farmers. Ask by **typing, voice, or photo**, in
 
 ### [Ascent Dashboard](https://github.com/Muneer320/dashboard)
 
-<img src="https://img.shields.io/badge/Production-2%2C000%2B_attendees-3FB950?style=flat-square" /> 
-<br><sub>built over a term, load-bearing on event day</sub>
+<img src="https://img.shields.io/badge/status-historical_archive-8B949E?style=flat-square" alt="Historical archive" />
+<br><sub>Backend and event operations · Ascent 2026 team project</sub>
 
-Operational backbone of a college techfest. QR check-in, participant sync, role-based admin tiers, AI-tagged photo gallery, gamified coins economy, real-time leaderboards, hackathon submissions and more.
+Built for college techfest operations: QR check-in, participant sync, role-based administration, gallery, coins, leaderboards and hackathon submissions.
 
-```
-77,000+ LOC     152 API endpoints    299 commits
-41 migrations   37 DB tables         31 services
-```
+The public repository preserves the historical platform with a **frontend preview**. Operational services are disconnected; it is an archive, not an active event backend.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
@@ -81,9 +82,9 @@ Operational backbone of a college techfest. QR check-in, participant sync, role-
 
 Local-first crash diagnostics for Python. Captures the full exception chain, locals at every frame, and thread state, then writes a structured report with **automatic secret redaction**. CLI viewer and HTML renderer included. No cloud, no telemetry.
 
-Shipped v1.0 → v2.0 with a frozen public API, formal deprecation policy, and a migration framework. Released from GitHub Actions via **Trusted Publishing (OIDC)**.
+Published **v2.1.0**, with a documented public API, deprecation policy and migration framework. Released from GitHub Actions via **Trusted Publishing (OIDC)**.
 
-<sub>**182 tests** · CI on Python 3.9–3.13 · MIT · pull requests from contributors I have never met</sub>
+<sub>CI on Python 3.9–3.13 · MIT · community contributions</sub>
 
 ```bash
 pip install safedump
@@ -114,12 +115,13 @@ An LLM fallback chain keeps a run alive when a single provider goes down.
 
 ### [ReGit](https://github.com/Muneer320/ReGit)
 
-<img src="https://img.shields.io/badge/Gradient_Rush-13h_build-BF91F3?style=flat-square" /> <a href="https://regit.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/status-shared_local_prototype-BF91F3?style=flat-square" alt="Shared local prototype" />
+<br><sub>Team hackathon project · built with Amrit</sub>
 
 Git assumes line-oriented text. Research artifacts are not. ReGit rebuilds version control around them:
 
 - Content-addressed **immutable artifacts**
-- **Semantic per-type diffing**, three-way prose merge
+- Typed artifact comparison and **three-way prose merge**
 - **CRDT** concurrent editing
 - Typed provenance: `claim → commit → artifact → source`
 
@@ -128,15 +130,65 @@ Git assumes line-oriented text. Research artifacts are not. ReGit rebuilds versi
 </td>
 <td width="50%" valign="top">
 
-### [BCD](https://github.com/Muneer320/BCD)
+### [BCD](https://github.com/muneer406/BCD)
 
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" /> <a href="https://bcd-dev.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+<br><sub>Awareness prototype · canonical source on my second account</sub>
 
 Tracks **visual change across photos taken over time** using an ordinary phone camera rather than clinical imaging. It surfaces differences between sessions, it does not diagnose, and it is not a medical device.
 
-MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Sentry monitoring. Self-hosted on an Azure VM over HTTPS via a Tailscale funnel.
+Explores MobileNetV3 inference through ONNX Runtime and per-session PIN gating on image access. The source documents its original hosting setup; an operational public backend is not claimed here.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Klicky](https://github.com/Muneer320/klicky)
+
+<sub><b>Released Linux tool · Rust</b></sub>
+
+Mechanical keyboard sounds without changing the keyboard. A native input daemon feeds prepared sound samples into a persistent mixer; switch packs and volume while it runs.
+
+<sub><a href="https://github.com/Muneer320/klicky/releases/tag/v0.4.0">Linux release v0.4.0</a> · macOS source support · originally forked from Sauhard</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [RhinoBox](https://github.com/Muneer320/RhinoBox)
+
+<sub><b>Local single-user demo · team hackathon project</b></sub>
+
+A browser file manager with deduplication and a JSON routing prototype. Go, PostgreSQL and MongoDB sit behind one local workspace, with file preview and persistent storage.
+
+<sub>Docker demo and restart persistence verified · not a production multi-tenant storage service</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [The One Missing Question](https://github.com/Muneer320/one-missing-question)
+
+<sub><b>Local Gemma application · Node.js + Ollama</b></sub>
+
+A scrapbook for messy group plans: paste a conversation, see source excerpts and unresolved points, then edit the one question to ask next. The server rejects quotes absent from the original chat.
+
+<sub>Run the built-in sample locally · model suggestions still need review · hosted processing is optional</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [iffy.ai](https://github.com/Muneer320/iffy-ai)
+
+<sub><b>Persistent local demo · creator and team lead</b></sub>
+
+A consequence notebook for “what if?” questions. Explore connected effects, timelines and perspectives, then keep independent branches of an idea. The credential-free demo makes the workflow easy to try.
+
+<sub>Built with Amrit · provider-backed generation requires separate configuration · original team history retained</sub>
 
 </td>
 </tr>
@@ -158,17 +210,21 @@ MobileNetV3 exported to ONNX Runtime, per-session PIN gating on image access, Se
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**MeraWard**](https://github.com/amritkang165/meraward) | Civic accountability for Delhi's 250 municipal wards. A dropped pin resolves your ward and councillor; voice, photo or text becomes a formal complaint drafted in Hindi and English, routed to the right office and tracked on a public neglect index. Two days at First Commit (WeMakeDevs x AWS). **23 of the 32 commits are mine** <br><sub>[live](https://main.d1s6q0cvldi6dz.amplifyapp.com) &middot; repo lives on a teammate's account</sub> | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| [**RhinoBox**](https://github.com/Muneer320/RhinoBox) | Multi-modal storage engine. One API, auto-categorisation, dedup, PostgreSQL/MongoDB routing, three-level caching | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| [**GitGuild**](https://github.com/Muneer320/GitGuild) | Prediction markets for GitHub PRs with bonding-curve pricing. **3rd place, BlockTrain** | ![Next.js](https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white) ![Solidity](https://img.shields.io/badge/-363636?style=flat-square&logo=solidity&logoColor=white) |
-| [**iffy.ai**](https://github.com/muneer406/iffy-ai) | "What if?" scenario explorer: ripple effects, trade-offs, timelines and stakeholder debate across society, business and tech. **Top 7 of 350+ teams at ProdX @ NAVERA '26** <br><sub>archived on my second account</sub> | ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**BOOP**](https://github.com/Muneer320/BOOP) | Puzzle-book generation pipeline. A CLI that grew into a [web app](https://github.com/Muneer320/BOOP-web); my most-starred repo | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| [**teams-clone**](https://github.com/Muneer320/teams-clone) | Microsoft Teams clone built as a reinforcement-learning environment with a Gym-style API | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**Oratio**](https://github.com/Muneer320/Oratio) | Real-time AI debate arena. WebSocket rooms with LLM judge scoring | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**codelines**](https://github.com/Muneer320/codelines) | Parallel lines-of-code counter, git-aware, Rich TUI. [On PyPI](https://pypi.org/project/codelines/) | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Rinse**](https://github.com/Muneer320/Rinse) | Swipe-to-clean gallery app, fully on-device | ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**Finity**](https://github.com/Muneer320/finity) | Fintech gamification. Paper trading simulator, AI coach, micro-courses | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**CPStats API**](https://github.com/Muneer320/CPStats-API) | Aggregated competitive-programming ratings across 4 platforms, cached | ![FastAPI](https://img.shields.io/badge/-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**MeraWard**](https://github.com/amritkang165/meraward) | Civic complaint workflows with ward lookup, bilingual drafts and delivery tracking. **Verified local demo**; shared AWS deployment is a separate follow-up. Backend team contribution, with Amrit. | Python · React · AWS |
+| [**GitGuild**](https://github.com/Muneer320/GitGuild) | Archived BlockTrain prototype: repository tokens and owner-resolved PR prediction markets. Runnable **local Hardhat demo**. | Next.js · Solidity |
+| [**BOOP**](https://github.com/Muneer320/BOOP) | Archived puzzle-book CLI and the foundation for [BOOP-web](https://github.com/Muneer320/BOOP-web). Generate categorized puzzle books with solutions. | Python · FastAPI |
+| [**teams-clone**](https://github.com/Muneer320/teams-clone) | Local two-user web chat plus a **separate Gymnasium task simulator**. No trained RL model or cross-user media stream claimed. | Python · React |
+| [**Oratio**](https://github.com/Muneer320/Oratio) | Debate rooms, judged rounds and AI training. **Local Docker demo**; live model mode needs provider configuration. | FastAPI · React · WebSockets |
+| [**codelines**](https://github.com/Muneer320/codelines) | Git-aware parallel lines-of-code counter with Rich terminal output. [Published on PyPI](https://pypi.org/project/codelines/). | Python |
+| [**Rinse**](https://github.com/Muneer320/Rinse) | On-device photo review with swipe, Undo and durable Trash. [Android preview release](https://github.com/Muneer320/Rinse/releases); experimental deletion flow, not a store release. | React Native · Expo |
+| [**Finity**](https://github.com/Muneer320/finity) | Financial-literacy **local demo** with fictional paper trades, persisted balances and expense tracking. | FastAPI · React |
+| [**CPStats API**](https://github.com/Muneer320/CPStats-API) | Competitive-programming rating API and cache. **Local Docker demo**; public hosting is not currently verified. | FastAPI · Docker |
+| [**Web Interview Playbook**](https://github.com/Muneer320/The-Web-Interview-Playbook) | Interactive interview practice: concept tools, STAR stories, timed rounds and browser-local progress. [Open the guide](https://muneer320.github.io/The-Web-Interview-Playbook/). Built on the original contributors’ work. | Astro · React |
+| [**ChemPath**](https://github.com/Muneer320/ChemPath) | Read-only organic-conversion teaching graph with route alternatives and a React interface. **Integrated local demo**. | FastAPI · React |
+| [**LEAP**](https://github.com/Muneer320/LEAP) | Generate linked Sudoku books: each puzzle depends on the previous solution. Includes a verified PDF workflow. | Python |
+| [**SST Lounge Bot**](https://github.com/Muneer320/SST-Lounge-Bot) | Discord contest reminders and optional rating lookup. Released with an offline SQLite demo; live Discord requires an operator token. | Python · Discord |
+| [**Telegram Expense Tracker**](https://github.com/Muneer320/Telegram-Expence-Tracker) | Log spending and inspect category summaries in Telegram. Local checks pass; deployment needs a token and allowed-user configuration. | Python · SQLite |
+| [**Receipt Reader**](https://github.com/Muneer320/receipt-reader) | Archived receipt-parsing take-home: extract, correct and save structured receipt data. Historical source, not a public service recommendation. | Python · React |
 
 </div>
 
@@ -184,7 +240,7 @@ Work merged into other people's repositories.
 | [**Women-Devs-SG/bibsnbub**](https://github.com/Women-Devs-SG/bibsnbub) | Fixed search-bar caret auto-selection swallowing the first character typed | <img src="https://img.shields.io/github/stars/Women-Devs-SG/bibsnbub?style=flat-square&color=5865F2&label=" /> ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**Reinforce-SST/Reinforce_Club-SST**](https://github.com/Reinforce-SST/Reinforce_Club-SST) | Contributed a gesture-controlled stickman hook script to the college RL club repo | <img src="https://img.shields.io/github/stars/Reinforce-SST/Reinforce_Club-SST?style=flat-square&color=5865F2&label=" /> ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**aavvvacado/Hand-sign-Cricket**](https://github.com/aavvvacado/Hand-sign-Cricket) | Built the AI opponent: difficulty levels and pattern learning against the player | <img src="https://img.shields.io/github/stars/aavvvacado/Hand-sign-Cricket?style=flat-square&color=5865F2&label=" /> ![Dart](https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| [**thewildofficial/MammothBox**](https://github.com/thewildofficial/MammothBox) | **3 merged PRs.** Restructured it into a monorepo and built the JSON processing system with SQL/JSONB decisioning | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**thewildofficial/MammothBox**](https://github.com/thewildofficial/MammothBox) | **3 merged PRs:** [JSON processing](https://github.com/thewildofficial/MammothBox/pull/18), [API fixes and optimization](https://github.com/thewildofficial/MammothBox/pull/35), and [backend/frontend monorepo](https://github.com/thewildofficial/MammothBox/pull/37) | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**Ascent-2026/ascent**](https://github.com/Ascent-2026/ascent) | **9 merged PRs** on the fest's public site: retro TV shell, modular controls, mobile navigation, leaderboard polish | ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 </div>
@@ -258,8 +314,8 @@ Work merged into other people's repositories.
 
 <table>
 <tr>
-<td width="50%" valign="top"><b>Yugaantar 2026</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Technical Team, Scaler's annual fest platform</sub></td>
-<td width="50%" valign="top"><b>AgriSense</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Finalist build shipped inside the sprint. Deployment and agronomist sign-off are what stand between it and real farmers</sub></td>
+<td width="50%" valign="top"><b>Yugaantar 2026</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Technical Team, Scaler's annual fest platform. Recent merged work covers participant sign-in, dashboard data and staff administration; repository is private</sub></td>
+<td width="50%" valign="top"><b>AgriSense</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Hackathon project with a <a href="https://github.com/Muneer320/AgriSense">runnable local prototype and contribution case study</a>. Synthetic demo data; real deployments, live integrations and agronomic validation remain separate</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><b>Hermes / HKV</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Entity store, event log, and projection layer behind a personal knowledge system</sub></td>
