@@ -80,7 +80,7 @@ The public repository preserves the historical platform with a **frontend previe
 
 <a href="https://pypi.org/project/safedump/"><img src="https://img.shields.io/pypi/v/safedump?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9" /></a> <img src="https://img.shields.io/github/stars/Muneer320/safedump?style=flat-square&color=5865F2" /> <img src="https://img.shields.io/badge/license-MIT-97CA00?style=flat-square" />
 
-Local-first crash diagnostics for Python. Captures the full exception chain, locals at every frame, and thread state, then writes a structured report with **automatic secret redaction**. CLI viewer and HTML renderer included. No cloud, no telemetry.
+Local-first crash diagnostics for Python. Captures exception chains, frame locals and thread state, then writes a structured report with **configurable redaction**. CLI viewer and HTML renderer included. No cloud, no telemetry. Review reports before sharing; redaction cannot guarantee that all sensitive data is removed.
 
 Published **v2.1.0**, with a documented public API, deprecation policy and migration framework. Released from GitHub Actions via **Trusted Publishing (OIDC)**.
 
@@ -95,17 +95,15 @@ pip install safedump
 
 ### [exHacker](https://github.com/Muneer320/exHacker)
 
-<img src="https://img.shields.io/badge/HackArena_2.0-Winner-FFD700?style=flat-square&logoColor=black" /> <a href="https://exhacker-frontend.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/HackArena_2.0-Winner-FFD700?style=flat-square&logoColor=black" /> <a href="https://exhacker-frontend.vercel.app"><img src="https://img.shields.io/badge/frontend-preview-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-AI co-pilot for hackathon teams. Compresses the first **6–10 hours** of a hackathon into **10–15 minutes**.
+A product studio for hackathon teams. Compare **five researched directions**, refine an idea, review the stack and leave with a plan the team can build.
 
-A numbered specialist pipeline on LangGraph:
+`challenge + team + time → research and critique → ranked ideas → stack review → Markdown handoff`
 
-`challenge intel → research → competitor analysis → decision journal → idea generation → solution architect → docs`
+Exports a PRD, architecture, **AGENTS.md** and implementation plan from an approved snapshot. A project-aware assistant keeps the plan and research in context. Bring your own key for live AI; the local evaluation uses labeled offline fixtures.
 
-An LLM fallback chain keeps a run alive when a single provider goes down.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -236,7 +234,7 @@ Work merged into other people's repositories.
 
 | Repository | What I contributed | |
 |---|---|---|
-| [**DFanso/commit-msg**](https://github.com/DFanso/commit-msg) | **6 merged PRs.** Added a unified LLM provider interface, a Groq provider, secret scrubbing so credentials never reach the model, an interactive review flow, and test coverage for git change detection | <img src="https://img.shields.io/github/stars/DFanso/commit-msg?style=flat-square&color=5865F2&label=" /> ![Go](https://img.shields.io/badge/-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**DFanso/commit-msg**](https://github.com/DFanso/commit-msg) | **6 merged PRs.** Added a unified LLM provider interface, a Groq provider, secret scrubbing to reduce credential exposure in model inputs, an interactive review flow, and test coverage for git change detection | <img src="https://img.shields.io/github/stars/DFanso/commit-msg?style=flat-square&color=5865F2&label=" /> ![Go](https://img.shields.io/badge/-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [**Women-Devs-SG/bibsnbub**](https://github.com/Women-Devs-SG/bibsnbub) | Fixed search-bar caret auto-selection swallowing the first character typed | <img src="https://img.shields.io/github/stars/Women-Devs-SG/bibsnbub?style=flat-square&color=5865F2&label=" /> ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**Reinforce-SST/Reinforce_Club-SST**](https://github.com/Reinforce-SST/Reinforce_Club-SST) | Contributed a gesture-controlled stickman hook script to the college RL club repo | <img src="https://img.shields.io/github/stars/Reinforce-SST/Reinforce_Club-SST?style=flat-square&color=5865F2&label=" /> ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**aavvvacado/Hand-sign-Cricket**](https://github.com/aavvvacado/Hand-sign-Cricket) | Built the AI opponent: difficulty levels and pattern learning against the player | <img src="https://img.shields.io/github/stars/aavvvacado/Hand-sign-Cricket?style=flat-square&color=5865F2&label=" /> ![Dart](https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white) |
