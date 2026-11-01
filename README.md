@@ -348,9 +348,9 @@ Work merged into other people's repositories.
 
 <!--STATS:START-->
 
-<sub><b>29</b> public repos · <b>63</b> stars · <b>13</b> forks · <b>2,422</b> contributions · <b>78</b> PRs opened (12 mo)</sub><br>
-<sub>By bytes: Python 28% · JavaScript 27% · Go 17% · TypeScript 17% · CSS 6% · HTML 2%</sub><br>
-<sub><i>Verified against the GitHub API on 31 Oct 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
+<sub><b>31</b> public repos · <b>64</b> stars · <b>13</b> forks · <b>2,612</b> contributions · <b>80</b> PRs opened (12 mo)</sub><br>
+<sub>By bytes: JavaScript 31% · Python 30% · TypeScript 15% · Go 12% · CSS 6% · HTML 4%</sub><br>
+<sub><i>Verified against the GitHub API on 01 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
 <!--STATS:END-->
 
