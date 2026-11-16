@@ -1,4 +1,4 @@
-name: Refresh profile stats
+name: Refresh profile stats and OSS
 
 on:
   schedule:
@@ -26,20 +26,27 @@ jobs:
 
       - name: Build stats block
         env:
-          # Default GITHUB_TOKEN is enough for public data and is never
-          # rate-limited the way a shared third-party instance is.
+          # Read public GitHub data with the built-in token; no extra secret needed.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
         run: python .github/scripts/build_stats.py
 
+      - name: Build OSS contributions block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          python -m unittest discover -s .github/scripts/tests -v
+          python .github/scripts/build_oss.py
+
       - name: Commit if changed
         run: |
           if [[ -z "$(git status --porcelain README.md)" ]]; then
-            echo "No stats change."
+            echo "No profile changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: refresh profile stats [skip ci]"
+          git commit -m "chore: refresh profile stats and OSS [skip ci]"
           git push

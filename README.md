@@ -194,7 +194,7 @@ A consequence notebook for “what if?” questions. Explore connected effects, 
 
 <div align="center">
 
-### More projects &amp; open source contributions
+### More projects
 <details>
 <summary>
 <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>C L I C K &nbsp; T O &nbsp; E X P A N D</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
@@ -226,26 +226,70 @@ A consequence notebook for “what if?” questions. Explore connected effects, 
 
 </div>
 
-### Open source contributions
-
-Work merged into other people's repositories.
-
-<div align="left">
-
-| Repository | What I contributed | |
-|---|---|---|
-| [**DFanso/commit-msg**](https://github.com/DFanso/commit-msg) | **6 merged PRs.** Added a unified LLM provider interface, a Groq provider, secret scrubbing to reduce credential exposure in model inputs, an interactive review flow, and test coverage for git change detection | <img src="https://img.shields.io/github/stars/DFanso/commit-msg?style=flat-square&color=5865F2&label=" /> ![Go](https://img.shields.io/badge/-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**Women-Devs-SG/bibsnbub**](https://github.com/Women-Devs-SG/bibsnbub) | Fixed search-bar caret auto-selection swallowing the first character typed | <img src="https://img.shields.io/github/stars/Women-Devs-SG/bibsnbub?style=flat-square&color=5865F2&label=" /> ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Reinforce-SST/Reinforce_Club-SST**](https://github.com/Reinforce-SST/Reinforce_Club-SST) | Contributed a gesture-controlled stickman hook script to the college RL club repo | <img src="https://img.shields.io/github/stars/Reinforce-SST/Reinforce_Club-SST?style=flat-square&color=5865F2&label=" /> ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**aavvvacado/Hand-sign-Cricket**](https://github.com/aavvvacado/Hand-sign-Cricket) | Built the AI opponent: difficulty levels and pattern learning against the player | <img src="https://img.shields.io/github/stars/aavvvacado/Hand-sign-Cricket?style=flat-square&color=5865F2&label=" /> ![Dart](https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| [**thewildofficial/MammothBox**](https://github.com/thewildofficial/MammothBox) | **3 merged PRs:** [JSON processing](https://github.com/thewildofficial/MammothBox/pull/18), [API fixes and optimization](https://github.com/thewildofficial/MammothBox/pull/35), and [backend/frontend monorepo](https://github.com/thewildofficial/MammothBox/pull/37) | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Ascent-2026/ascent**](https://github.com/Ascent-2026/ascent) | **9 merged PRs** on the fest's public site: retro TV shell, modular controls, mobile navigation, leaderboard polish | ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
-</div>
-
 </details>
 
 </div>
+
+---
+
+## Open source contributions
+
+I contribute fixes to SDKs, developer tools and community projects.
+
+<!--OSS:START-->
+
+<table>
+<tr>
+<td align="center" width="33%"><h3>17</h3><sub><b>Merged OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>7</h3><sub><b>Projects with merged work</b></sub></td>
+<td align="center" width="33%"><h3>16</h3><sub><b>Open OSS PRs</b></sub></td>
+</tr>
+</table>
+
+<sub>Selected upstream OSS projects · Updated 16 Nov 2026 by [GitHub Actions](.github/workflows/profile-stats.yml). [Project selection](.github/oss-projects.json).</sub>
+
+### Merged contributions
+
+| Project | Contribution | Merged PRs |
+|---|---|---|
+| **[Microsoft · Kiota Python](https://github.com/microsoft/kiota-python)** | **6 merged PRs.** ISO 8601 durations, enum wire values and zero-valued members, media-type matching, form field names and DST-aware datetime parameters. | [#870](https://github.com/microsoft/kiota-python/pull/870) · [#872](https://github.com/microsoft/kiota-python/pull/872) · [#875](https://github.com/microsoft/kiota-python/pull/875) · [#889](https://github.com/microsoft/kiota-python/pull/889) · [#893](https://github.com/microsoft/kiota-python/pull/893) · [#895](https://github.com/microsoft/kiota-python/pull/895) |
+| **[SQLFluff](https://github.com/sqlfluff/sqlfluff)** | **1 merged PR.** PostgreSQL CHECKPOINT parsing. | [#9028](https://github.com/sqlfluff/sqlfluff/pull/9028) |
+| **[commit-msg](https://github.com/DFanso/commit-msg)** | **6 merged PRs.** LLM provider interface, Groq support, secret scrubbing, interactive commit review, Git-change tests and terminal formatting. | [#34](https://github.com/DFanso/commit-msg/pull/34) · [#45](https://github.com/DFanso/commit-msg/pull/45) · [#67](https://github.com/DFanso/commit-msg/pull/67) · [#74](https://github.com/DFanso/commit-msg/pull/74) · [#78](https://github.com/DFanso/commit-msg/pull/78) · [#99](https://github.com/DFanso/commit-msg/pull/99) |
+| **[bibsnbub](https://github.com/Women-Devs-SG/bibsnbub)** | **1 merged PR.** Fixed search-bar caret selection swallowing the first character. | [#18](https://github.com/Women-Devs-SG/bibsnbub/pull/18) |
+| **[Hand-sign Cricket](https://github.com/aavvvacado/Hand-sign-Cricket)** | **1 merged PR.** Built an AI opponent with difficulty levels and pattern learning. | [#8](https://github.com/aavvvacado/Hand-sign-Cricket/pull/8) |
+| **[sort-image](https://github.com/surajkareppagol/sort-image)** | **1 merged PR.** Added sorting algorithms and other improvements. | [#1](https://github.com/surajkareppagol/sort-image/pull/1) |
+| **[Datavorous](https://github.com/datavorous/datavorous)** | **1 merged PR.** Improved tracker usability and readability, with bug fixes. | [#1](https://github.com/datavorous/datavorous/pull/1) |
+
+<details>
+<summary><b>Open pull requests · 16 PRs across 11 projects</b></summary>
+
+| Project | Pull requests |
+|---|---|
+| [Google · Brotli](https://github.com/google/brotli) | [#1617: Fix Windows CLI Unicode filenames](https://github.com/google/brotli/pull/1617) |
+| [Google · PyGlove](https://github.com/google/pyglove) | [#447: Share in-memory sequence records across PathLike and string paths](https://github.com/google/pyglove/pull/447) |
+| [Meta · Submitit](https://github.com/facebookincubator/submitit) | [#1843: Expose original failed-job exceptions as causes](https://github.com/facebookincubator/submitit/pull/1843)<br>[#1845: Fix completed-result awaitable typing](https://github.com/facebookincubator/submitit/pull/1845)<br>[#1848: Honor polling intervals for single-task async completion](https://github.com/facebookincubator/submitit/pull/1848) |
+| [AWS · Botocore](https://github.com/boto/botocore) | [#3870: Count readinto buffer capacity and checksum slices in bytes](https://github.com/boto/botocore/pull/3870) |
+| [AWS · Secrets Manager caching](https://github.com/aws/aws-secretsmanager-caching-python) | [#83: Fix secret injection argument placement for plain and static functions](https://github.com/aws/aws-secretsmanager-caching-python/pull/83) |
+| [Apache DataFusion](https://github.com/apache/datafusion) | [#27151: fix: ignore filenames when parsing Hive partitions](https://github.com/apache/datafusion/pull/27151) |
+| [OpenSSF Scorecard](https://github.com/ossf/scorecard) | [#5421: :seedling: Share experimental check classification with the MCP catalog](https://github.com/ossf/scorecard/pull/5421) |
+| [Maturin](https://github.com/PyO3/maturin) | [#3356: fix: select host Python when cross-compiling](https://github.com/PyO3/maturin/pull/3356) |
+| [virtualenv](https://github.com/pypa/virtualenv) | [#3542: Honor explicit environments in creator, seed and update subprocesses (draft)](https://github.com/pypa/virtualenv/pull/3542) |
+| [pgcli](https://github.com/dbcli/pgcli) | [#1661: Highlight function definitions from sf commands](https://github.com/dbcli/pgcli/pull/1661) |
+| [WaGram Desk Lite](https://github.com/rayss868/WaGramDeskLite) | [#12: Use English for Windows tray and startup messages](https://github.com/rayss868/WaGramDeskLite/pull/12)<br>[#13: Open only the most recent account on startup](https://github.com/rayss868/WaGramDeskLite/pull/13)<br>[#14: Use the embedded logo for portable Windows tray icons](https://github.com/rayss868/WaGramDeskLite/pull/14)<br>[#15: Open external web links in the default browser on Windows](https://github.com/rayss868/WaGramDeskLite/pull/15) |
+
+</details>
+
+<!--OSS:END-->
+
+### Community badges
+
+[![An image of @muneer320's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muneer320)](https://holopin.io/@muneer320)
+
+<p align="center">
+<a href="https://dev.to/muneer320"><img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F506%2Fhf26-badge-completion.png" width="96" alt="Hacktoberfest 2026 Challenge Completion badge" title="Hacktoberfest 2026 Challenge Completion badge" /></a>
+<a href="https://dev.to/muneer320"><img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F470%2FGHco-26-04.png" width="96" alt="GitHub Copilot &quot;Finish-Up-A-Thon&quot; Challenge Completion badge" title="GitHub Copilot &quot;Finish-Up-A-Thon&quot; Challenge Completion badge" /></a>
+</p>
+<p align="center"><sub>DEV challenge completion: Hacktoberfest 2026 · GitHub Copilot Finish-Up-A-Thon</sub></p>
 
 ---
 

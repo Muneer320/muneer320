@@ -1,0 +1,112 @@
+{
+  "user": "Muneer320",
+  "selection_policy": "Count public authored PRs in the upstream projects reviewed by Muneer. Explicit exclusions override selection. License auto-detection does not override this list. New repositories appear in the Actions summary for review before counting.",
+  "exclude_owners": [
+    "Muneer320",
+    "muneer406"
+  ],
+  "exclude_repositories": [
+    "thewildofficial/MammothBox",
+    "Reinforce-SST/Reinforce_Club-SST",
+    "Ascent-2026/ascent",
+    "amritkang165/meraward",
+    "annam-iitrpr/TeamUnderdawgs-Agrisense",
+    "rust-lang/this-week-in-rust",
+    "up-for-grabs/up-for-grabs.net",
+    "firstcontributions/first-contributions",
+    "microsoft/winget-pkgs",
+    "omacom/omarchy-pkgs"
+  ],
+  "projects": [
+    {
+      "repository": "microsoft/kiota-python",
+      "label": "Microsoft \u00b7 Kiota Python",
+      "summary": "ISO 8601 durations, enum wire values and zero-valued members, media-type matching, form field names and DST-aware datetime parameters."
+    },
+    {
+      "repository": "sqlfluff/sqlfluff",
+      "label": "SQLFluff",
+      "summary": "PostgreSQL CHECKPOINT parsing."
+    },
+    {
+      "repository": "DFanso/commit-msg",
+      "label": "commit-msg",
+      "summary": "LLM provider interface, Groq support, secret scrubbing, interactive commit review, Git-change tests and terminal formatting."
+    },
+    {
+      "repository": "Women-Devs-SG/bibsnbub",
+      "label": "bibsnbub",
+      "summary": "Fixed search-bar caret selection swallowing the first character."
+    },
+    {
+      "repository": "aavvvacado/Hand-sign-Cricket",
+      "label": "Hand-sign Cricket",
+      "summary": "Built an AI opponent with difficulty levels and pattern learning."
+    },
+    {
+      "repository": "surajkareppagol/sort-image",
+      "label": "sort-image",
+      "summary": "Added sorting algorithms and other improvements."
+    },
+    {
+      "repository": "datavorous/datavorous",
+      "label": "Datavorous",
+      "summary": "Improved tracker usability and readability, with bug fixes."
+    },
+    {
+      "repository": "google/brotli",
+      "label": "Google \u00b7 Brotli",
+      "summary": ""
+    },
+    {
+      "repository": "google/pyglove",
+      "label": "Google \u00b7 PyGlove",
+      "summary": ""
+    },
+    {
+      "repository": "facebookincubator/submitit",
+      "label": "Meta \u00b7 Submitit",
+      "summary": ""
+    },
+    {
+      "repository": "boto/botocore",
+      "label": "AWS \u00b7 Botocore",
+      "summary": ""
+    },
+    {
+      "repository": "aws/aws-secretsmanager-caching-python",
+      "label": "AWS \u00b7 Secrets Manager caching",
+      "summary": ""
+    },
+    {
+      "repository": "apache/datafusion",
+      "label": "Apache DataFusion",
+      "summary": ""
+    },
+    {
+      "repository": "ossf/scorecard",
+      "label": "OpenSSF Scorecard",
+      "summary": ""
+    },
+    {
+      "repository": "PyO3/maturin",
+      "label": "Maturin",
+      "summary": ""
+    },
+    {
+      "repository": "pypa/virtualenv",
+      "label": "virtualenv",
+      "summary": ""
+    },
+    {
+      "repository": "dbcli/pgcli",
+      "label": "pgcli",
+      "summary": ""
+    },
+    {
+      "repository": "rayss868/WaGramDeskLite",
+      "label": "WaGram Desk Lite",
+      "summary": ""
+    }
+  ]
+}
