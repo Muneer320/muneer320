@@ -147,6 +147,8 @@ Explores MobileNetV3 inference through ONNX Runtime and per-session PIN gating o
 
 ### [Klicky](https://github.com/Muneer320/klicky)
 
+[![Klicky OpenSSF Best Practices status](https://www.bestpractices.dev/projects/16774/badge)](https://www.bestpractices.dev/projects/16774)
+
 <sub><b>Released Linux tool · Rust</b></sub>
 
 Mechanical keyboard sounds without changing the keyboard. A native input daemon feeds prepared sound samples into a persistent mixer; switch packs and volume while it runs.
