@@ -28,7 +28,7 @@ I build backend systems, developer tools and applied AI projects.<br>
 </tr>
 <tr>
 <td width="50%" align="center"><b>Developer Tools</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Python packages on PyPI,<br>a native Rust audio daemon,<br>release automation and<br>documented public APIs</sub></td>
-<td width="50%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Published packages, Linux releases,<br>and team hackathon projects.<br>Runnable local demos with<br>their limits made explicit</sub></td>
+<td width="50%" align="center"><b>Shipped</b><br><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="400" height="3" alt=""><br><sub>Published packages, cross-platform<br>desktop releases and team projects.<br>Runnable local demos with<br>their limits made explicit</sub></td>
 </tr>
 </table>
 
@@ -59,16 +59,20 @@ Crop decision support for Indian farmers. Ask by **typing, voice, or photo**, in
 </td>
 <td width="50%" valign="top">
 
-### [Ascent Dashboard](https://github.com/Muneer320/dashboard)
+### [Klicky](https://github.com/Muneer320/klicky)
 
-<img src="https://img.shields.io/badge/status-historical_archive-8B949E?style=flat-square" alt="Historical archive" />
-<br><sub>Backend and event operations · Ascent 2026 team project</sub>
+[![Latest release](https://img.shields.io/github/v/release/Muneer320/klicky?style=flat-square&color=7435b4)](https://github.com/Muneer320/klicky/releases/latest) [![CI status](https://github.com/Muneer320/klicky/actions/workflows/ci.yml/badge.svg)](https://github.com/Muneer320/klicky/actions/workflows/ci.yml) [![MIT license](https://img.shields.io/badge/license-MIT-97CA00?style=flat-square)](https://github.com/Muneer320/klicky/blob/master/LICENSE)
+<br>[![Klicky OpenSSF Best Practices status](https://www.bestpractices.dev/projects/16774/badge)](https://www.bestpractices.dev/projects/16774)
 
-Built for college techfest operations: QR check-in, participant sync, role-based administration, gallery, coins, leaderboards and hackathon submissions.
+<sub><b>Linux · macOS · Windows 11 x64 · Rust</b></sub>
 
-The public repository preserves the historical platform with a **frontend preview**. Operational services are disconnected; it is an archive, not an active event backend.
+Meet the little creature under your keys. Klicky adds mechanical keyboard sounds to the keyboard you already own, with **ten included sound packs**, custom recordings, volume and pause/resume controls.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+Built in Rust around native keyboard events and prepared audio. Control it from the **Windows tray, macOS menu bar or Klicky Bar on Omarchy**. Normal playback stays local, stores no typed text and needs no account or subscription.
+
+Install through [Microsoft Store](https://apps.microsoft.com/detail/9NLVFX7T2X6Q), [APT](https://klicky.muneer320.tech/guide.html#linux), [Homebrew](https://klicky.muneer320.tech/guide.html#homebrew) or [Scoop](https://klicky.muneer320.tech/guide.html#scoop). Klicky Bar is also listed in the Omarchy plugin marketplace.
+
+<sub><a href="https://klicky.muneer320.tech/#demo">Watch &amp; hear the demo</a> · <a href="https://klicky.muneer320.tech/#install">Install</a> · <a href="https://muneer320.tech/projects/klicky/">Engineering story</a></sub>
 
 </td>
 </tr>
@@ -145,15 +149,16 @@ Explores MobileNetV3 inference through ONNX Runtime and per-session PIN gating o
 <tr>
 <td width="50%" valign="top">
 
-### [Klicky](https://github.com/Muneer320/klicky)
+### [Ascent Dashboard](https://github.com/Muneer320/dashboard)
 
-[![Klicky OpenSSF Best Practices status](https://www.bestpractices.dev/projects/16774/badge)](https://www.bestpractices.dev/projects/16774)
+<img src="https://img.shields.io/badge/status-historical_archive-8B949E?style=flat-square" alt="Historical archive" />
+<br><sub>Backend and event operations · Ascent 2026 team project</sub>
 
-<sub><b>Released Linux tool · Rust</b></sub>
+Built for college techfest operations: QR check-in, participant sync, role-based administration, gallery, coins, leaderboards and hackathon submissions.
 
-Mechanical keyboard sounds without changing the keyboard. A native input daemon feeds prepared sound samples into a persistent mixer; switch packs and volume while it runs.
+The public repository preserves the historical platform with a **frontend preview**. Operational services are disconnected; it is an archive, not an active event backend.
 
-<sub><a href="https://github.com/Muneer320/klicky/releases/tag/v0.4.0">Linux release v0.4.0</a> · macOS source support · originally forked from Sauhard</sub>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -323,7 +328,7 @@ I contribute fixes to SDKs, developer tools and community projects.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,dart,lua,solidity,bash&theme=dark" alt="Python, TypeScript, JavaScript, Go, Dart, Lua, Solidity, Bash" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,rust,go,dart,lua,solidity,bash&theme=dark" alt="Python, TypeScript, JavaScript, Rust, Go, Dart, Lua, Solidity, Bash" />
 
 ### Backend & Data
 
