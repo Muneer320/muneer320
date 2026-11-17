@@ -61,15 +61,18 @@ Crop decision support for Indian farmers. Ask by **typing, voice, or photo**, in
 
 ### [Klicky](https://github.com/Muneer320/klicky)
 
-[![Klicky OpenSSF Best Practices status](https://www.bestpractices.dev/projects/16774/badge)](https://www.bestpractices.dev/projects/16774)
+[![Latest release](https://img.shields.io/github/v/release/Muneer320/klicky?style=flat-square&color=7435b4)](https://github.com/Muneer320/klicky/releases/latest) [![CI status](https://github.com/Muneer320/klicky/actions/workflows/ci.yml/badge.svg)](https://github.com/Muneer320/klicky/actions/workflows/ci.yml) [![MIT license](https://img.shields.io/badge/license-MIT-97CA00?style=flat-square)](https://github.com/Muneer320/klicky/blob/master/LICENSE)
+<br>[![Klicky OpenSSF Best Practices status](https://www.bestpractices.dev/projects/16774/badge)](https://www.bestpractices.dev/projects/16774)
 
-<sub><b>Linux · macOS · Windows 11 · Rust</b></sub>
+<sub><b>Linux · macOS · Windows 11 x64 · Rust</b></sub>
 
-Mechanical keyboard sounds for the keyboard you already own. Ten sound packs, custom recordings and native desktop controls, with prepared audio and local playback.
+Meet the little creature under your keys. Klicky adds mechanical keyboard sounds to the keyboard you already own, with **ten included sound packs**, custom recordings, volume and pause/resume controls.
 
-Install through **Microsoft Store, APT, Homebrew or Scoop**. Klicky Bar is also listed in the Omarchy plugin marketplace.
+Built in Rust around native keyboard events and prepared audio. Control it from the **Windows tray, macOS menu bar or Klicky Bar on Omarchy**. Normal playback stays local, stores no typed text and needs no account or subscription.
 
-<sub><a href="https://klicky.muneer320.tech/">Demo &amp; install</a> · <a href="https://github.com/Muneer320/klicky/releases/latest">Latest release</a> · <a href="https://muneer320.tech/projects/klicky/">Engineering story</a></sub>
+Install through [Microsoft Store](https://apps.microsoft.com/detail/9NLVFX7T2X6Q), [APT](https://klicky.muneer320.tech/guide.html#linux), [Homebrew](https://klicky.muneer320.tech/guide.html#homebrew) or [Scoop](https://klicky.muneer320.tech/guide.html#scoop). Klicky Bar is also listed in the Omarchy plugin marketplace.
+
+<sub><a href="https://klicky.muneer320.tech/#demo">Watch &amp; hear the demo</a> · <a href="https://klicky.muneer320.tech/#install">Install</a> · <a href="https://muneer320.tech/projects/klicky/">Engineering story</a></sub>
 
 </td>
 </tr>
