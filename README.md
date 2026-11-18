@@ -247,13 +247,13 @@ I contribute fixes to SDKs, developer tools and community projects.
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>18</h3><sub><b>Merged OSS PRs</b></sub></td>
-<td align="center" width="33%"><h3>8</h3><sub><b>Projects with merged work</b></sub></td>
-<td align="center" width="33%"><h3>15</h3><sub><b>Open OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>22</h3><sub><b>Merged OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>9</h3><sub><b>Projects with merged work</b></sub></td>
+<td align="center" width="33%"><h3>11</h3><sub><b>Open OSS PRs</b></sub></td>
 </tr>
 </table>
 
-<sub>Selected upstream OSS projects · Updated 17 Nov 2026 by [GitHub Actions](.github/workflows/profile-stats.yml). [Project selection](.github/oss-projects.json).</sub>
+<sub>Selected upstream OSS projects · Updated 18 Nov 2026 by [GitHub Actions](.github/workflows/profile-stats.yml). [Project selection](.github/oss-projects.json).</sub>
 
 ### Merged contributions
 
@@ -267,9 +267,10 @@ I contribute fixes to SDKs, developer tools and community projects.
 | **[sort-image](https://github.com/surajkareppagol/sort-image)** | **1 merged PR.** Added sorting algorithms and other improvements. | [#1](https://github.com/surajkareppagol/sort-image/pull/1) |
 | **[Datavorous](https://github.com/datavorous/datavorous)** | **1 merged PR.** Improved tracker usability and readability, with bug fixes. | [#1](https://github.com/datavorous/datavorous/pull/1) |
 | **[virtualenv](https://github.com/pypa/virtualenv)** | **1 merged PR.** 🐛 fix(api): pass the caller&#x27;s env to every subprocess | [#3542](https://github.com/pypa/virtualenv/pull/3542) |
+| **[WaGram Desk Lite](https://github.com/rayss868/WaGramDeskLite)** | **4 merged PRs.** Open only the most recent account on startup; Use the embedded logo for portable Windows tray icons; Open external web links in the default browser on Windows | [#12](https://github.com/rayss868/WaGramDeskLite/pull/12) · [#13](https://github.com/rayss868/WaGramDeskLite/pull/13) · [#14](https://github.com/rayss868/WaGramDeskLite/pull/14) · [#15](https://github.com/rayss868/WaGramDeskLite/pull/15) |
 
 <details>
-<summary><b>Open pull requests · 15 PRs across 10 projects</b></summary>
+<summary><b>Open pull requests · 11 PRs across 9 projects</b></summary>
 
 | Project | Pull requests |
 |---|---|
@@ -282,7 +283,6 @@ I contribute fixes to SDKs, developer tools and community projects.
 | [OpenSSF Scorecard](https://github.com/ossf/scorecard) | [#5421: :seedling: Share experimental check classification with the MCP catalog](https://github.com/ossf/scorecard/pull/5421) |
 | [Maturin](https://github.com/PyO3/maturin) | [#3356: fix: select host Python when cross-compiling](https://github.com/PyO3/maturin/pull/3356) |
 | [pgcli](https://github.com/dbcli/pgcli) | [#1661: Highlight function definitions from sf commands](https://github.com/dbcli/pgcli/pull/1661) |
-| [WaGram Desk Lite](https://github.com/rayss868/WaGramDeskLite) | [#12: Use English for Windows tray and startup messages](https://github.com/rayss868/WaGramDeskLite/pull/12)<br>[#13: Open only the most recent account on startup](https://github.com/rayss868/WaGramDeskLite/pull/13)<br>[#14: Use the embedded logo for portable Windows tray icons](https://github.com/rayss868/WaGramDeskLite/pull/14)<br>[#15: Open external web links in the default browser on Windows](https://github.com/rayss868/WaGramDeskLite/pull/15) |
 
 </details>
 
@@ -397,9 +397,9 @@ I contribute fixes to SDKs, developer tools and community projects.
 
 <!--STATS:START-->
 
-<sub><b>35</b> public repos · <b>69</b> stars · <b>16</b> forks · <b>3,402</b> contributions · <b>157</b> PRs opened (12 mo)</sub><br>
+<sub><b>35</b> public repos · <b>71</b> stars · <b>16</b> forks · <b>3,415</b> contributions · <b>160</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 28% · Python 28% · TypeScript 15% · Go 11% · CSS 6% · HTML 4%</sub><br>
-<sub><i>Verified against the GitHub API on 17 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
+<sub><i>Verified against the GitHub API on 18 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
 <!--STATS:END-->
 
