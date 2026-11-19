@@ -55,5 +55,38 @@ class OssTests(unittest.TestCase):
                 with self.assertRaises(RuntimeError): oss.main()
             self.assertEqual(readme.read_text(), content)
 
+    def test_featured_statuses_change_after_merge_and_reports_are_not_prs(self):
+        self.config['highlights'] = [
+            {'label': 'SDK', 'repositories': ['upstream/sdk'], 'summary': 'Fix a boundary.'},
+            {'label': 'Report', 'report': 'vendor/runtime', 'summary': 'Public reproduction.'}]
+        report = {'repository': 'vendor/runtime', 'number': 9, 'fix_pr': 10,
+                  'issue_url': 'https://github.com/vendor/runtime/issues/9',
+                  'fix_url': 'https://github.com/vendor/runtime/pull/10', 'fix_merged': True}
+        block = oss.build_block([pr(state='OPEN')], self.config, '19 Nov 2026', [report])
+        self.assertIn('1 open PR', block)
+        self.assertIn('Bug report · Upstream fix merged', block)
+        self.assertIn('Maintainer fix #10', block)
+        self.assertIn('<h3>0</h3>', block)  # A report is never a merged authored PR.
+        updated = oss.build_block([pr()], self.config, '19 Nov 2026', [report])
+        self.assertIn('1 merged PR', updated)
+        self.assertNotIn('Open #1', updated)
+
+    def test_exclusions_override_highlights_and_duplicate_results(self):
+        self.config['exclude_owners'].append('Friend')
+        self.config['projects'].append({'repository': 'Friend/sdk', 'label': 'Friend', 'summary': ''})
+        selected, _ = oss.select_prs([pr(), pr(), pr('Friend/sdk')], self.config)
+        self.assertEqual(len(selected), 1)
+
+    def test_report_failure_preserves_last_successful_readme(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp); (root / '.github').mkdir()
+            import json
+            (root / '.github/oss-projects.json').write_text(json.dumps(self.config))
+            readme = root / 'README.md'; original = 'before' + oss.START + 'good' + oss.END + 'after'
+            readme.write_text(original)
+            with patch.object(oss, 'ROOT', root), patch.object(oss, 'fetch_prs', return_value=[pr()]), patch.object(oss, 'fetch_reports', side_effect=RuntimeError('Report unavailable')):
+                with self.assertRaises(RuntimeError): oss.main()
+            self.assertEqual(readme.read_text(), original)
+
 
 if __name__ == "__main__": unittest.main()

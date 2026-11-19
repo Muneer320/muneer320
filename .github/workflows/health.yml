@@ -14,9 +14,9 @@ name: README health
 on:
   push:
     branches: [main]
-    paths: ["**.md", ".github/scripts/**", ".github/workflows/health.yml"]
+    paths: ["**.md", ".github/scripts/**", ".github/oss-projects.json", ".github/workflows/health.yml", ".github/workflows/profile-stats.yml"]
   pull_request:
-    paths: ["**.md", ".github/scripts/**"]
+    paths: ["**.md", ".github/scripts/**", ".github/oss-projects.json", ".github/workflows/profile-stats.yml"]
   schedule:
     # Weekly, Monday 06:30 IST
     - cron: "0 1 * * 1"
@@ -27,6 +27,16 @@ permissions:
   issues: write
 
 jobs:
+  oss-tests:
+    name: OSS automation tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s .github/scripts/tests -v
+
   links:
     name: Dead links
     runs-on: ubuntu-latest
@@ -74,7 +84,7 @@ jobs:
 
   notify:
     name: Open an issue if the weekly run failed
-    needs: [links, widgets]
+    needs: [links, widgets, oss-tests]
     if: failure() && github.event_name == 'schedule'
     runs-on: ubuntu-latest
     steps:

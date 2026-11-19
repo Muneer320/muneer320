@@ -1,9 +1,15 @@
 {
   "user": "Muneer320",
-  "selection_policy": "Count public authored PRs in the upstream projects reviewed by Muneer. Explicit exclusions override selection. License auto-detection does not override this list. New repositories appear in the Actions summary for review before counting.",
+  "selection_policy": "Count only public authored PRs in reviewed independent upstream projects. Exclude personal accounts, agency/college/hackathon work and promotion of my own projects. New repositories are reported in the Actions summary for review before counting. Featured reports are separate from PR totals; a closed issue alone is not proof of a fix.",
   "exclude_owners": [
     "Muneer320",
-    "muneer406"
+    "muneer406",
+    "muneer-ailabs",
+    "ParaPixel-DigiServices",
+    "Ascent-2026",
+    "yugaantar-26",
+    "visionplayground",
+    "amritkang165"
   ],
   "exclude_repositories": [
     "thewildofficial/MammothBox",
@@ -20,7 +26,7 @@
   "projects": [
     {
       "repository": "microsoft/kiota-python",
-      "label": "Microsoft \u00b7 Kiota Python",
+      "label": "Microsoft · Kiota Python",
       "summary": "ISO 8601 durations, enum wire values and zero-valued members, media-type matching, form field names and DST-aware datetime parameters."
     },
     {
@@ -34,48 +40,28 @@
       "summary": "LLM provider interface, Groq support, secret scrubbing, interactive commit review, Git-change tests and terminal formatting."
     },
     {
-      "repository": "Women-Devs-SG/bibsnbub",
-      "label": "bibsnbub",
-      "summary": "Fixed search-bar caret selection swallowing the first character."
-    },
-    {
-      "repository": "aavvvacado/Hand-sign-Cricket",
-      "label": "Hand-sign Cricket",
-      "summary": "Built an AI opponent with difficulty levels and pattern learning."
-    },
-    {
-      "repository": "surajkareppagol/sort-image",
-      "label": "sort-image",
-      "summary": "Added sorting algorithms and other improvements."
-    },
-    {
-      "repository": "datavorous/datavorous",
-      "label": "Datavorous",
-      "summary": "Improved tracker usability and readability, with bug fixes."
-    },
-    {
       "repository": "google/brotli",
-      "label": "Google \u00b7 Brotli",
-      "summary": ""
+      "label": "Google · Brotli",
+      "summary": "Proposed Windows CLI support for Unicode filenames."
     },
     {
       "repository": "google/pyglove",
-      "label": "Google \u00b7 PyGlove",
-      "summary": ""
+      "label": "Google · PyGlove",
+      "summary": "Proposed consistent in-memory sequence identity for string and PathLike paths."
     },
     {
       "repository": "facebookincubator/submitit",
-      "label": "Meta \u00b7 Submitit",
+      "label": "Meta · Submitit",
       "summary": ""
     },
     {
       "repository": "boto/botocore",
-      "label": "AWS \u00b7 Botocore",
+      "label": "AWS · Botocore",
       "summary": ""
     },
     {
       "repository": "aws/aws-secretsmanager-caching-python",
-      "label": "AWS \u00b7 Secrets Manager caching",
+      "label": "AWS · Secrets Manager caching",
       "summary": ""
     },
     {
@@ -86,7 +72,7 @@
     {
       "repository": "ossf/scorecard",
       "label": "OpenSSF Scorecard",
-      "summary": ""
+      "summary": "Included experimental checks from their definitions in the MCP catalog."
     },
     {
       "repository": "PyO3/maturin",
@@ -96,7 +82,7 @@
     {
       "repository": "pypa/virtualenv",
       "label": "virtualenv",
-      "summary": ""
+      "summary": "Passed the caller's environment consistently to subprocesses instead of falling back to the host environment."
     },
     {
       "repository": "dbcli/pgcli",
@@ -106,7 +92,57 @@
     {
       "repository": "rayss868/WaGramDeskLite",
       "label": "WaGram Desk Lite",
-      "summary": ""
+      "summary": "Fixed Windows tray text and icons, startup account selection and external-link handling."
+    }
+  ],
+  "highlights": [
+    {
+      "label": "Microsoft · Kiota Python",
+      "repositories": [
+        "microsoft/kiota-python"
+      ],
+      "summary": "Serialization fixes across durations, enum wire values, zero-valued members, media types, form field names and DST-aware datetimes."
+    },
+    {
+      "label": "NVIDIA · CUDA Pathfinder",
+      "report": "NVIDIA/cuda-python",
+      "summary": "Reproduced incorrect header and utility lookups through symlink-parent paths. Maintainers addressed the report in their resolved-path fix."
+    },
+    {
+      "label": "Google · Brotli and PyGlove",
+      "repositories": [
+        "google/brotli",
+        "google/pyglove"
+      ],
+      "summary": "Proposed fixes for Unicode filenames in the Windows Brotli CLI and shared in-memory records across PathLike and string paths in PyGlove."
+    },
+    {
+      "label": "Python Packaging · virtualenv",
+      "repositories": [
+        "pypa/virtualenv"
+      ],
+      "summary": "Fixed subprocess environment propagation so environment discovery and execution respect the caller's supplied environment."
+    },
+    {
+      "label": "OpenSSF · Scorecard",
+      "repositories": [
+        "ossf/scorecard"
+      ],
+      "summary": "Updated the MCP catalog to read experimental checks from their definitions, keeping check metadata tied to the actual implementation."
+    },
+    {
+      "label": "SQLFluff",
+      "repositories": [
+        "sqlfluff/sqlfluff"
+      ],
+      "summary": "Added PostgreSQL CHECKPOINT parsing with regression coverage for supported statement forms."
+    }
+  ],
+  "reports": [
+    {
+      "repository": "NVIDIA/cuda-python",
+      "number": 3413,
+      "fix_pr": 3418
     }
   ]
 }

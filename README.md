@@ -241,37 +241,111 @@ A consequence notebook for “what if?” questions. Explore connected effects, 
 
 ## Open source contributions
 
-I contribute fixes to SDKs, developer tools and community projects.
+I work on the edges that are easy to miss: serialization, filesystem paths, subprocess environments and the tools around them.
 
 <!--OSS:START-->
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="33%"><h3>23</h3><sub><b>Merged OSS PRs</b></sub></td>
-<td align="center" width="33%"><h3>10</h3><sub><b>Projects with merged work</b></sub></td>
-<td align="center" width="33%"><h3>10</h3><sub><b>Open OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>19</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Merged OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>6</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Projects with merged work</b></sub></td>
+<td align="center" width="33%"><h3>10</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Open OSS PRs</b></sub></td>
 </tr>
 </table>
 
-<sub>Selected upstream OSS projects · Updated 19 Nov 2026 by [GitHub Actions](.github/workflows/profile-stats.yml). [Project selection](.github/oss-projects.json).</sub>
+<p align="center"><sub>Selected external projects · Updated 19 Nov 2026 · <a href=".github/workflows/profile-stats.yml">Daily refresh</a> · <a href=".github/oss-projects.json">Selection</a><br>Counts cover authored PRs only. Bug reports are credited separately.</sub></p>
 
-### Merged contributions
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Microsoft · Kiota Python](https://github.com/microsoft/kiota-python)
+
+<sub><b>6 merged PRs</b></sub>
+
+Serialization fixes across durations, enum wire values, zero-valued members, media types, form field names and DST-aware datetimes.
+
+[Merged #870](https://github.com/microsoft/kiota-python/pull/870) · [Merged #872](https://github.com/microsoft/kiota-python/pull/872) · [Merged #875](https://github.com/microsoft/kiota-python/pull/875) · [Merged #889](https://github.com/microsoft/kiota-python/pull/889) · [Merged #893](https://github.com/microsoft/kiota-python/pull/893) · [Merged #895](https://github.com/microsoft/kiota-python/pull/895)
+
+</td>
+<td width="50%" valign="top">
+
+### [NVIDIA · CUDA Pathfinder](https://github.com/NVIDIA/cuda-python)
+
+<sub><b>Bug report · Upstream fix merged</b></sub>
+
+Reproduced incorrect header and utility lookups through symlink-parent paths. Maintainers addressed the report in their resolved-path fix.
+
+[My report #3413](https://github.com/NVIDIA/cuda-python/issues/3413) · [Maintainer fix #3418](https://github.com/NVIDIA/cuda-python/pull/3418)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Google · Brotli and PyGlove](https://github.com/google/brotli)
+
+<sub><b>2 open PRs</b></sub>
+
+Proposed fixes for Unicode filenames in the Windows Brotli CLI and shared in-memory records across PathLike and string paths in PyGlove.
+
+[Open #1617](https://github.com/google/brotli/pull/1617) · [Open #447](https://github.com/google/pyglove/pull/447)
+
+</td>
+<td width="50%" valign="top">
+
+### [Python Packaging · virtualenv](https://github.com/pypa/virtualenv)
+
+<sub><b>1 merged PR</b></sub>
+
+Fixed subprocess environment propagation so environment discovery and execution respect the caller&#x27;s supplied environment.
+
+[Merged #3542](https://github.com/pypa/virtualenv/pull/3542)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OpenSSF · Scorecard](https://github.com/ossf/scorecard)
+
+<sub><b>1 merged PR</b></sub>
+
+Updated the MCP catalog to read experimental checks from their definitions, keeping check metadata tied to the actual implementation.
+
+[Merged #5421](https://github.com/ossf/scorecard/pull/5421)
+
+</td>
+<td width="50%" valign="top">
+
+### [SQLFluff](https://github.com/sqlfluff/sqlfluff)
+
+<sub><b>1 merged PR</b></sub>
+
+Added PostgreSQL CHECKPOINT parsing with regression coverage for supported statement forms.
+
+[Merged #9028](https://github.com/sqlfluff/sqlfluff/pull/9028)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>All selected merged contributions</b></summary>
 
 | Project | Contribution | Merged PRs |
 |---|---|---|
 | **[Microsoft · Kiota Python](https://github.com/microsoft/kiota-python)** | **6 merged PRs.** ISO 8601 durations, enum wire values and zero-valued members, media-type matching, form field names and DST-aware datetime parameters. | [#870](https://github.com/microsoft/kiota-python/pull/870) · [#872](https://github.com/microsoft/kiota-python/pull/872) · [#875](https://github.com/microsoft/kiota-python/pull/875) · [#889](https://github.com/microsoft/kiota-python/pull/889) · [#893](https://github.com/microsoft/kiota-python/pull/893) · [#895](https://github.com/microsoft/kiota-python/pull/895) |
 | **[SQLFluff](https://github.com/sqlfluff/sqlfluff)** | **1 merged PR.** PostgreSQL CHECKPOINT parsing. | [#9028](https://github.com/sqlfluff/sqlfluff/pull/9028) |
 | **[commit-msg](https://github.com/DFanso/commit-msg)** | **6 merged PRs.** LLM provider interface, Groq support, secret scrubbing, interactive commit review, Git-change tests and terminal formatting. | [#34](https://github.com/DFanso/commit-msg/pull/34) · [#45](https://github.com/DFanso/commit-msg/pull/45) · [#67](https://github.com/DFanso/commit-msg/pull/67) · [#74](https://github.com/DFanso/commit-msg/pull/74) · [#78](https://github.com/DFanso/commit-msg/pull/78) · [#99](https://github.com/DFanso/commit-msg/pull/99) |
-| **[bibsnbub](https://github.com/Women-Devs-SG/bibsnbub)** | **1 merged PR.** Fixed search-bar caret selection swallowing the first character. | [#18](https://github.com/Women-Devs-SG/bibsnbub/pull/18) |
-| **[Hand-sign Cricket](https://github.com/aavvvacado/Hand-sign-Cricket)** | **1 merged PR.** Built an AI opponent with difficulty levels and pattern learning. | [#8](https://github.com/aavvvacado/Hand-sign-Cricket/pull/8) |
-| **[sort-image](https://github.com/surajkareppagol/sort-image)** | **1 merged PR.** Added sorting algorithms and other improvements. | [#1](https://github.com/surajkareppagol/sort-image/pull/1) |
-| **[Datavorous](https://github.com/datavorous/datavorous)** | **1 merged PR.** Improved tracker usability and readability, with bug fixes. | [#1](https://github.com/datavorous/datavorous/pull/1) |
-| **[OpenSSF Scorecard](https://github.com/ossf/scorecard)** | **1 merged PR.** :seedling: Read experimental checks from their definitions in the MCP catalog | [#5421](https://github.com/ossf/scorecard/pull/5421) |
-| **[virtualenv](https://github.com/pypa/virtualenv)** | **1 merged PR.** 🐛 fix(api): pass the caller&#x27;s env to every subprocess | [#3542](https://github.com/pypa/virtualenv/pull/3542) |
-| **[WaGram Desk Lite](https://github.com/rayss868/WaGramDeskLite)** | **4 merged PRs.** Open only the most recent account on startup; Use the embedded logo for portable Windows tray icons; Open external web links in the default browser on Windows | [#12](https://github.com/rayss868/WaGramDeskLite/pull/12) · [#13](https://github.com/rayss868/WaGramDeskLite/pull/13) · [#14](https://github.com/rayss868/WaGramDeskLite/pull/14) · [#15](https://github.com/rayss868/WaGramDeskLite/pull/15) |
+| **[OpenSSF Scorecard](https://github.com/ossf/scorecard)** | **1 merged PR.** Included experimental checks from their definitions in the MCP catalog. | [#5421](https://github.com/ossf/scorecard/pull/5421) |
+| **[virtualenv](https://github.com/pypa/virtualenv)** | **1 merged PR.** Passed the caller&#x27;s environment consistently to subprocesses instead of falling back to the host environment. | [#3542](https://github.com/pypa/virtualenv/pull/3542) |
+| **[WaGram Desk Lite](https://github.com/rayss868/WaGramDeskLite)** | **4 merged PRs.** Fixed Windows tray text and icons, startup account selection and external-link handling. | [#12](https://github.com/rayss868/WaGramDeskLite/pull/12) · [#13](https://github.com/rayss868/WaGramDeskLite/pull/13) · [#14](https://github.com/rayss868/WaGramDeskLite/pull/14) · [#15](https://github.com/rayss868/WaGramDeskLite/pull/15) |
+
+</details>
 
 <details>
-<summary><b>Open pull requests · 10 PRs across 8 projects</b></summary>
+<summary><b>In review · 10 open PRs across 8 projects</b></summary>
 
 | Project | Pull requests |
 |---|---|
