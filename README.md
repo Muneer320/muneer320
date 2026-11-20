@@ -247,13 +247,13 @@ I work on the edges that are easy to miss: serialization, filesystem paths, subp
 
 <table align="center">
 <tr>
-<td align="center" width="33%"><h3>19</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Merged OSS PRs</b></sub></td>
-<td align="center" width="33%"><h3>6</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Projects with merged work</b></sub></td>
-<td align="center" width="33%"><h3>10</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Open OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>20</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Merged OSS PRs</b></sub></td>
+<td align="center" width="33%"><h3>7</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Projects with merged work</b></sub></td>
+<td align="center" width="33%"><h3>9</h3><img src="https://raw.githubusercontent.com/Muneer320/muneer320/main/assets/divider.png" width="240" height="3" alt=""><br><sub><b>Open OSS PRs</b></sub></td>
 </tr>
 </table>
 
-<p align="center"><sub>Selected external projects · Updated 19 Nov 2026 · <a href=".github/workflows/profile-stats.yml">Daily refresh</a> · <a href=".github/oss-projects.json">Selection</a><br>Counts cover authored PRs only. Bug reports are credited separately.</sub></p>
+<p align="center"><sub>Selected external projects · Updated 20 Nov 2026 · <a href=".github/workflows/profile-stats.yml">Daily refresh</a> · <a href=".github/oss-projects.json">Selection</a><br>Counts cover authored PRs only. Bug reports are credited separately.</sub></p>
 
 <table>
 <tr>
@@ -338,6 +338,7 @@ Added PostgreSQL CHECKPOINT parsing with regression coverage for supported state
 | **[Microsoft · Kiota Python](https://github.com/microsoft/kiota-python)** | **6 merged PRs.** ISO 8601 durations, enum wire values and zero-valued members, media-type matching, form field names and DST-aware datetime parameters. | [#870](https://github.com/microsoft/kiota-python/pull/870) · [#872](https://github.com/microsoft/kiota-python/pull/872) · [#875](https://github.com/microsoft/kiota-python/pull/875) · [#889](https://github.com/microsoft/kiota-python/pull/889) · [#893](https://github.com/microsoft/kiota-python/pull/893) · [#895](https://github.com/microsoft/kiota-python/pull/895) |
 | **[SQLFluff](https://github.com/sqlfluff/sqlfluff)** | **1 merged PR.** PostgreSQL CHECKPOINT parsing. | [#9028](https://github.com/sqlfluff/sqlfluff/pull/9028) |
 | **[commit-msg](https://github.com/DFanso/commit-msg)** | **6 merged PRs.** LLM provider interface, Groq support, secret scrubbing, interactive commit review, Git-change tests and terminal formatting. | [#34](https://github.com/DFanso/commit-msg/pull/34) · [#45](https://github.com/DFanso/commit-msg/pull/45) · [#67](https://github.com/DFanso/commit-msg/pull/67) · [#74](https://github.com/DFanso/commit-msg/pull/74) · [#78](https://github.com/DFanso/commit-msg/pull/78) · [#99](https://github.com/DFanso/commit-msg/pull/99) |
+| **[Apache DataFusion](https://github.com/apache/datafusion)** | **1 merged PR.** fix: ignore filenames when parsing Hive partitions | [#27151](https://github.com/apache/datafusion/pull/27151) |
 | **[OpenSSF Scorecard](https://github.com/ossf/scorecard)** | **1 merged PR.** Included experimental checks from their definitions in the MCP catalog. | [#5421](https://github.com/ossf/scorecard/pull/5421) |
 | **[virtualenv](https://github.com/pypa/virtualenv)** | **1 merged PR.** Passed the caller&#x27;s environment consistently to subprocesses instead of falling back to the host environment. | [#3542](https://github.com/pypa/virtualenv/pull/3542) |
 | **[WaGram Desk Lite](https://github.com/rayss868/WaGramDeskLite)** | **4 merged PRs.** Fixed Windows tray text and icons, startup account selection and external-link handling. | [#12](https://github.com/rayss868/WaGramDeskLite/pull/12) · [#13](https://github.com/rayss868/WaGramDeskLite/pull/13) · [#14](https://github.com/rayss868/WaGramDeskLite/pull/14) · [#15](https://github.com/rayss868/WaGramDeskLite/pull/15) |
@@ -345,7 +346,7 @@ Added PostgreSQL CHECKPOINT parsing with regression coverage for supported state
 </details>
 
 <details>
-<summary><b>In review · 10 open PRs across 8 projects</b></summary>
+<summary><b>In review · 9 open PRs across 7 projects</b></summary>
 
 | Project | Pull requests |
 |---|---|
@@ -354,7 +355,6 @@ Added PostgreSQL CHECKPOINT parsing with regression coverage for supported state
 | [Meta · Submitit](https://github.com/facebookincubator/submitit) | [#1843: Expose original failed-job exceptions as causes](https://github.com/facebookincubator/submitit/pull/1843)<br>[#1845: Fix completed-result awaitable typing](https://github.com/facebookincubator/submitit/pull/1845)<br>[#1848: Honor polling intervals for single-task async completion](https://github.com/facebookincubator/submitit/pull/1848) |
 | [AWS · Botocore](https://github.com/boto/botocore) | [#3870: Count readinto buffer capacity and checksum slices in bytes](https://github.com/boto/botocore/pull/3870) |
 | [AWS · Secrets Manager caching](https://github.com/aws/aws-secretsmanager-caching-python) | [#83: Fix secret injection argument placement for plain and static functions](https://github.com/aws/aws-secretsmanager-caching-python/pull/83) |
-| [Apache DataFusion](https://github.com/apache/datafusion) | [#27151: fix: ignore filenames when parsing Hive partitions](https://github.com/apache/datafusion/pull/27151) |
 | [Maturin](https://github.com/PyO3/maturin) | [#3356: fix: select host Python when cross-compiling](https://github.com/PyO3/maturin/pull/3356) |
 | [pgcli](https://github.com/dbcli/pgcli) | [#1661: Highlight function definitions from sf commands](https://github.com/dbcli/pgcli/pull/1661) |
 
@@ -471,9 +471,9 @@ Added PostgreSQL CHECKPOINT parsing with regression coverage for supported state
 
 <!--STATS:START-->
 
-<sub><b>35</b> public repos · <b>73</b> stars · <b>16</b> forks · <b>3,417</b> contributions · <b>160</b> PRs opened (12 mo)</sub><br>
+<sub><b>35</b> public repos · <b>75</b> stars · <b>16</b> forks · <b>3,418</b> contributions · <b>160</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 28% · Python 28% · TypeScript 15% · Go 11% · CSS 6% · HTML 4%</sub><br>
-<sub><i>Verified against the GitHub API on 19 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
+<sub><i>Verified against the GitHub API on 20 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
 <!--STATS:END-->
 
