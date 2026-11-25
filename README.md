@@ -253,7 +253,7 @@ I work on the edges that are easy to miss: serialization, filesystem paths, subp
 </tr>
 </table>
 
-<p align="center"><sub>Selected external projects · Updated 24 Nov 2026 · <a href=".github/workflows/profile-stats.yml">Daily refresh</a> · <a href=".github/oss-projects.json">Selection</a><br>Counts cover authored PRs only. Bug reports are credited separately.</sub></p>
+<p align="center"><sub>Selected external projects · Updated 25 Nov 2026 · <a href=".github/workflows/profile-stats.yml">Daily refresh</a> · <a href=".github/oss-projects.json">Selection</a><br>Counts cover authored PRs only. Bug reports are credited separately.</sub></p>
 
 <table>
 <tr>
@@ -473,7 +473,7 @@ Added PostgreSQL CHECKPOINT parsing with regression coverage for supported state
 
 <sub><b>35</b> public repos · <b>75</b> stars · <b>18</b> forks · <b>3,373</b> contributions · <b>171</b> PRs opened (12 mo)</sub><br>
 <sub>By bytes: JavaScript 28% · Python 28% · TypeScript 15% · Go 11% · CSS 6% · Rust 5%</sub><br>
-<sub><i>Verified against the GitHub API on 24 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
+<sub><i>Verified against the GitHub API on 25 Nov 2026 by <a href=".github/workflows/profile-stats.yml">this workflow</a>, not a third-party stats service.</i></sub>
 
 <!--STATS:END-->
 
